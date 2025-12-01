@@ -1206,13 +1206,11 @@ export default function Home() {
                         <th onClick={() => handleSort('lateMarks')}>Late</th>
                         <th onClick={() => handleSort('absentDays')}>Absent</th>
                         <th onClick={() => handleSort('presentDays')}>Total</th>
-                        <th>Conclusion</th>
                         <th>Actions</th>
                       </tr>
                     </thead>
                     <tbody>
                       {displayed.map((emp, i) => {
-                        const conclusion = getConclusion(emp);
                         // Get actual month days from first record date
                         const getMonthDays = () => {
                           if (emp.dailyRecords.length === 0) return 30;
@@ -1254,7 +1252,6 @@ export default function Home() {
                           <td><span className={`badge ${emp.lateMarks > 3 ? 'danger' : emp.lateMarks > 0 ? 'warning' : 'neutral'}`}>{emp.lateMarks}</span></td>
                           <td><span className={`badge ${emp.absentDays > 3 ? 'danger' : emp.absentDays > 0 ? 'warning' : 'neutral'}`}>{emp.absentDays}</span></td>
                           <td><span className="badge info">{emp.presentDays}/{monthDays}</span></td>
-                          <td><span className={`badge ${conclusion.color}`}>{conclusion.icon} {conclusion.text}</span></td>
                           <td><button className="view-btn" onClick={e => { e.stopPropagation(); setSelectedEmployee(emp); }}><Eye size={14} /> View</button></td>
                         </motion.tr>
                       );})}
