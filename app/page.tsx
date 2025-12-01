@@ -1072,10 +1072,10 @@ export default function Home() {
 
   // Auto-load static company data when company is changed
   useEffect(() => {
-    if (!summaryFile && company && company !== 'Other / Mixed') {
+    if (company && company !== 'Other / Mixed') {
       loadCompanyData(company);
     }
-  }, [company, summaryFile, loadCompanyData]);
+  }, [company, loadCompanyData]);
 
   // File handlers
   const handleDrop = useCallback((e: React.DragEvent) => {
