@@ -1,0 +1,1021 @@
+Day,Date,Full Name,Member Code,Group,Manager(s),Work Schedule,Tracked Hours,Worked Hours,Break Hours (paid),Break Hours (unpaid),Deductions,Payroll Hours,Regular Hours,Daily OT,Daily Double OT,Weekly OT,Rest Day OT,Public Holiday OT,Daily OT Rate,Daily Double OT Rate,Weekly OT Rate,Rest Day OT Rate,Public Holiday OT Rate,Paid Time Off,Time Off Name,Billable Rate,Billable Amount,First In,Last Out
+Saturday,11/1/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,18h 58m,18h 58m,'-,'-,'-,18h 58m,18h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:19 AM,06:58 PM
+Saturday,11/1/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Aryan Raut,AR-1,,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:41 AM,06:27 PM
+Saturday,11/1/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Harji Mali,HM-1,,,Default Work Schedule,19h 49m,19h 49m,'-,'-,'-,19h 49m,19h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:37 AM,07:49 PM
+Saturday,11/1/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:16 AM,07:00 PM
+Saturday,11/1/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 13m,8h 13m,'-,'-,'-,8h 13m,8h 13m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,07:00 PM
+Saturday,11/1/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,9h 07m,9h 07m,'-,'-,'-,9h 07m,9h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,07:28 PM
+Saturday,11/1/2025,"Priya ",P-1,,,Default Work Schedule,7h 49m,7h 49m,'-,'-,'-,7h 49m,7h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:18 AM,06:07 PM
+Saturday,11/1/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 47m,9h 47m,'-,'-,'-,9h 47m,9h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:15 AM,07:03 PM
+Saturday,11/1/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 51m,8h 51m,'-,'-,'-,8h 51m,8h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,07:12 PM
+Saturday,11/1/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:00 PM
+Saturday,11/1/2025,Sanket Mishra,SM-1,,,Default Work Schedule,18h 53m,18h 53m,'-,'-,'-,18h 53m,18h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:58 AM,06:52 PM
+Saturday,11/1/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 16m,8h 16m,'-,'-,'-,8h 16m,8h 16m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,06:47 PM
+Saturday,11/1/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:00 PM
+Saturday,11/1/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,13h 27m,13h 27m,'-,'-,'-,13h 27m,13h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,
+Saturday,11/1/2025,Sneha Gurav,sg-2,,,Default Work Schedule,6h 30m,6h 30m,'-,'-,'-,6h 30m,6h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,05:09 PM
+Saturday,11/1/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,7h 15m,7h 15m,'-,'-,'-,7h 15m,7h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:14 AM,05:29 PM
+Saturday,11/1/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,9h 12m,9h 12m,'-,'-,'-,9h 12m,9h 12m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,07:33 PM
+Saturday,11/1/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Aryan Raut,AR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Harji Mali,HM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Priya ",P-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Ram Garib,RG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Sanket Mishra,SM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Sara Gawde,SG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Sneha Gurav,sg-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:07 AM,07:38 PM
+Monday,11/3/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Aryan Raut,AR-1,,,Default Work Schedule,9h 06m,9h 06m,'-,'-,'-,9h 06m,9h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:52 AM,06:58 PM
+Monday,11/3/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Harji Mali,HM-1,,,Default Work Schedule,16h 35m,16h 35m,'-,'-,'-,16h 35m,16h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:24 AM,07:54 PM
+Monday,11/3/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,8h 13m,8h 13m,'-,'-,'-,8h 13m,8h 13m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,07:03 PM
+Monday,11/3/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 10m,8h 10m,'-,'-,'-,8h 10m,8h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:09 AM,07:23 PM
+Monday,11/3/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 12m,8h 12m,'-,'-,'-,8h 12m,8h 12m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:52 AM,07:04 PM
+Monday,11/3/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,19h 08m,19h 08m,'-,'-,'-,19h 08m,19h 08m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:48 AM,07:07 PM
+Monday,11/3/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,14h 07m,14h 07m,'-,'-,'-,14h 07m,14h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:53 AM,
+Monday,11/3/2025,"Priya ",P-1,,,Default Work Schedule,8h 03m,8h 03m,'-,'-,'-,8h 03m,8h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:01 AM,06:04 PM
+Monday,11/3/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 57m,9h 57m,'-,'-,'-,9h 57m,9h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:06 AM,07:04 PM
+Monday,11/3/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:07 PM
+Monday,11/3/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,07:03 PM
+Monday,11/3/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,06:56 PM
+Monday,11/3/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 10m,8h 10m,'-,'-,'-,8h 10m,8h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:40 AM,06:50 PM
+Monday,11/3/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,13h 33m,13h 33m,'-,'-,'-,13h 33m,13h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,
+Monday,11/3/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,10h 38m,10h 38m,'-,'-,'-,10h 38m,10h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,10:37 AM
+Monday,11/3/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 19m,8h 19m,'-,'-,'-,8h 19m,8h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,07:00 PM
+Monday,11/3/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:14 AM,07:12 PM
+Monday,11/3/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:02 PM
+Monday,11/3/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Aryan Raut,AR-1,,,Default Work Schedule,14h 32m,14h 32m,'-,'-,'-,14h 32m,14h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:27 AM,
+Tuesday,11/4/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:02 AM,07:28 PM
+Tuesday,11/4/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,13h 24m,13h 24m,'-,'-,'-,13h 24m,13h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,
+Tuesday,11/4/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,5h 27m,5h 27m,'-,'-,'-,5h 27m,5h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,01:48 PM,07:16 PM
+Tuesday,11/4/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 22m,8h 22m,'-,'-,'-,8h 22m,8h 22m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,07:04 PM
+Tuesday,11/4/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:43 AM,07:07 PM
+Tuesday,11/4/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,19h 03m,19h 03m,'-,'-,'-,19h 03m,19h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:03 PM
+Tuesday,11/4/2025,"Priya ",P-1,,,Default Work Schedule,7h 47m,7h 47m,'-,'-,'-,7h 47m,7h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,06:03 PM
+Tuesday,11/4/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 50m,10h 50m,'-,'-,'-,10h 50m,10h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:05 AM,07:55 PM
+Tuesday,11/4/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:04 PM
+Tuesday,11/4/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,13h 25m,13h 25m,'-,'-,'-,13h 25m,13h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,
+Tuesday,11/4/2025,Sanket Mishra,SM-1,,,Default Work Schedule,13h 56m,13h 56m,'-,'-,'-,13h 56m,13h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,
+Tuesday,11/4/2025,Sara Gawde,SG-1,,,Default Work Schedule,13h 34m,13h 34m,'-,'-,'-,13h 34m,13h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,
+Tuesday,11/4/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,19h 01m,19h 01m,'-,'-,'-,19h 01m,19h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,07:00 PM
+Tuesday,11/4/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:09 PM
+Tuesday,11/4/2025,Sneha Gurav,sg-2,,,Default Work Schedule,13h 09m,13h 09m,'-,'-,'-,13h 09m,13h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:51 AM,
+Tuesday,11/4/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,13h 16m,13h 16m,'-,'-,'-,13h 16m,13h 16m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,
+Tuesday,11/4/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,8h 11m,8h 11m,'-,'-,'-,8h 11m,8h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,06:52 PM
+Tuesday,11/4/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,8h 06m,8h 06m,'-,'-,'-,8h 06m,8h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:07 AM,07:12 PM
+Wednesday,11/5/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Aryan Raut,AR-1,,,Default Work Schedule,19h 21m,19h 21m,'-,'-,'-,19h 21m,19h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:36 AM,07:20 PM
+Wednesday,11/5/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:27 AM,07:16 PM
+Wednesday,11/5/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:57 AM,07:27 PM
+Wednesday,11/5/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,19h 41m,19h 41m,'-,'-,'-,19h 41m,19h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:19 AM,07:40 PM
+Wednesday,11/5/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,07:03 PM
+Wednesday,11/5/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 17m,8h 17m,'-,'-,'-,8h 17m,8h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,07:07 PM
+Wednesday,11/5/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,07:00 PM
+Wednesday,11/5/2025,"Priya ",P-1,,,Default Work Schedule,7h 46m,7h 46m,'-,'-,'-,7h 46m,7h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:15 AM,06:01 PM
+Wednesday,11/5/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 07m,10h 07m,'-,'-,'-,10h 07m,10h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:05 AM,07:13 PM
+Wednesday,11/5/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:09 PM
+Wednesday,11/5/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,19h 13m,19h 13m,'-,'-,'-,19h 13m,19h 13m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:13 PM
+Wednesday,11/5/2025,Sanket Mishra,SM-1,,,Default Work Schedule,18h 58m,18h 58m,'-,'-,'-,18h 58m,18h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:08 AM,06:58 PM
+Wednesday,11/5/2025,Sara Gawde,SG-1,,,Default Work Schedule,15h 45m,15h 45m,'-,'-,'-,15h 45m,15h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,06:50 PM,10:34 AM
+Wednesday,11/5/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 19m,8h 19m,'-,'-,'-,8h 19m,8h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,06:56 PM
+Wednesday,11/5/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:46 AM,07:13 PM
+Wednesday,11/5/2025,Sneha Gurav,sg-2,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,
+Wednesday,11/5/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,18h 58m,18h 58m,'-,'-,'-,18h 58m,18h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,06:57 PM
+Wednesday,11/5/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,06:50 PM
+Wednesday,11/5/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,4h 59m,4h 59m,'-,'-,'-,4h 59m,4h 59m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,02:08 PM,07:07 PM
+Thursday,11/6/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Aryan Raut,AR-1,,,Default Work Schedule,9h 39m,9h 39m,'-,'-,'-,9h 39m,9h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:56 AM,07:36 PM
+Thursday,11/6/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:08 AM,07:11 PM
+Thursday,11/6/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,10:21 AM
+Thursday,11/6/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,07:17 PM
+Thursday,11/6/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,14h 10m,14h 10m,'-,'-,'-,14h 10m,14h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:49 AM,
+Thursday,11/6/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 09m,8h 09m,'-,'-,'-,8h 09m,8h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:51 AM,07:00 PM
+Thursday,11/6/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:40 AM,07:05 PM
+Thursday,11/6/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,06:59 PM
+Thursday,11/6/2025,"Priya ",P-1,,,Default Work Schedule,7h 55m,7h 55m,'-,'-,'-,7h 55m,7h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,06:01 PM
+Thursday,11/6/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 14m,10h 14m,'-,'-,'-,10h 14m,10h 14m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:13 AM,07:27 PM
+Thursday,11/6/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:04 PM
+Thursday,11/6/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,8h 47m,8h 47m,'-,'-,'-,8h 47m,8h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,07:27 PM
+Thursday,11/6/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:03 AM,06:52 PM
+Thursday,11/6/2025,Sara Gawde,SG-1,,,Default Work Schedule,18h 52m,18h 52m,'-,'-,'-,18h 52m,18h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,06:51 PM
+Thursday,11/6/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,13h 31m,13h 31m,'-,'-,'-,13h 31m,13h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,
+Thursday,11/6/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 47m,8h 47m,'-,'-,'-,8h 47m,8h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:11 PM
+Thursday,11/6/2025,Sneha Gurav,sg-2,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,10:43 AM
+Thursday,11/6/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:43 AM,07:08 PM
+Thursday,11/6/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,8h 20m,8h 20m,'-,'-,'-,8h 20m,8h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,06:49 PM
+Thursday,11/6/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,7h 42m,7h 42m,'-,'-,'-,7h 42m,7h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:36 AM,07:18 PM
+Friday,11/7/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Aryan Raut,AR-1,,,Default Work Schedule,9h 50m,9h 50m,'-,'-,'-,9h 50m,9h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:38 AM,07:28 PM
+Friday,11/7/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:04 AM,07:18 PM
+Friday,11/7/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,19h 03m,19h 03m,'-,'-,'-,19h 03m,19h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,07:03 PM
+Friday,11/7/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:54 AM,07:18 PM
+Friday,11/7/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:46 AM,09:46 AM
+Friday,11/7/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 07m,8h 07m,'-,'-,'-,8h 07m,8h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:53 AM,07:00 PM
+Friday,11/7/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 18m,8h 18m,'-,'-,'-,8h 18m,8h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:45 AM,07:03 PM
+Friday,11/7/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:13 AM,07:06 PM
+Friday,11/7/2025,"Priya ",P-1,,,Default Work Schedule,7h 50m,7h 50m,'-,'-,'-,7h 50m,7h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:13 AM,06:03 PM
+Friday,11/7/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 08m,10h 08m,'-,'-,'-,10h 08m,10h 08m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:06 AM,07:14 PM
+Friday,11/7/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:02 PM
+Friday,11/7/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:14 PM
+Friday,11/7/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,06:54 PM
+Friday,11/7/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 19m,8h 19m,'-,'-,'-,8h 19m,8h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,06:50 PM
+Friday,11/7/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,18h 50m,18h 50m,'-,'-,'-,18h 50m,18h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,06:50 PM
+Friday,11/7/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:10 PM
+Friday,11/7/2025,Sneha Gurav,sg-2,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,07:00 PM
+Friday,11/7/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,8h 42m,8h 42m,'-,'-,'-,8h 42m,8h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:46 AM,07:28 PM
+Friday,11/7/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,4h 24m,4h 24m,'-,'-,'-,4h 24m,4h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,02:27 PM,06:52 PM
+Friday,11/7/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,7h 01m,7h 01m,'-,'-,'-,7h 01m,7h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:38 AM,06:39 PM
+Saturday,11/8/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Aryan Raut,AR-1,,,Default Work Schedule,4h 46m,4h 46m,'-,'-,'-,4h 46m,4h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:14 PM,
+Saturday,11/8/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:51 AM,07:51 PM
+Saturday,11/8/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,9h 58m,9h 58m,'-,'-,'-,9h 58m,9h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,02:01 PM,
+Saturday,11/8/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 00m,8h 00m,'-,'-,'-,8h 00m,8h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:09 AM,07:10 PM
+Saturday,11/8/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,10:07 AM
+Saturday,11/8/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 18m,8h 18m,'-,'-,'-,8h 18m,8h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,06:58 PM
+Saturday,11/8/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 23m,8h 23m,'-,'-,'-,8h 23m,8h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,07:01 PM
+Saturday,11/8/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,07:00 PM
+Saturday,11/8/2025,"Priya ",P-1,,,Default Work Schedule,7h 48m,7h 48m,'-,'-,'-,7h 48m,7h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,06:04 PM
+Saturday,11/8/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 58m,9h 58m,'-,'-,'-,9h 58m,9h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:07 AM,07:05 PM
+Saturday,11/8/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:19 AM,07:08 PM
+Saturday,11/8/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,8h 57m,8h 57m,'-,'-,'-,8h 57m,8h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:03 PM
+Saturday,11/8/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 18m,8h 18m,'-,'-,'-,8h 18m,8h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,06:52 PM
+Saturday,11/8/2025,Sara Gawde,SG-1,,,Default Work Schedule,12h 57m,12h 57m,'-,'-,'-,12h 57m,12h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:03 AM,
+Saturday,11/8/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,7h 45m,7h 45m,'-,'-,'-,7h 45m,7h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:18 AM,07:03 PM
+Saturday,11/8/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:09 PM
+Saturday,11/8/2025,Sneha Gurav,sg-2,,,Default Work Schedule,7h 56m,7h 56m,'-,'-,'-,7h 56m,7h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:04 AM,06:59 PM
+Saturday,11/8/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,6h 47m,6h 47m,'-,'-,'-,6h 47m,6h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,05:29 PM
+Saturday,11/8/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,8h 22m,8h 22m,'-,'-,'-,8h 22m,8h 22m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,06:50 PM
+Saturday,11/8/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Aryan Raut,AR-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,12h 01m,12h 01m,'-,'-,'-,12h 01m,12h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,12:00 PM
+Sunday,11/9/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Priya ",P-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Ram Garib,RG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Sanket Mishra,SM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Sara Gawde,SG-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Sneha Gurav,sg-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,12h 46m,12h 46m,'-,'-,'-,12h 46m,12h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:13 AM,
+Monday,11/10/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Aryan Raut,AR-1,,,Default Work Schedule,18h 34m,18h 34m,'-,'-,'-,18h 34m,18h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:37 AM,06:33 PM
+Monday,11/10/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:02 AM,07:16 PM
+Monday,11/10/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 21m,8h 21m,'-,'-,'-,8h 21m,8h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:54 AM,07:16 PM
+Monday,11/10/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,13h 54m,13h 54m,'-,'-,'-,13h 54m,13h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:06 AM,
+Monday,11/10/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 20m,8h 20m,'-,'-,'-,8h 20m,8h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:40 AM,07:00 PM
+Monday,11/10/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 21m,8h 21m,'-,'-,'-,8h 21m,8h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:43 AM,07:04 PM
+Monday,11/10/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,9h 16m,9h 16m,'-,'-,'-,9h 16m,9h 16m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:43 AM,07:00 PM
+Monday,11/10/2025,"Priya ",P-1,,,Default Work Schedule,7h 53m,7h 53m,'-,'-,'-,7h 53m,7h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:10 AM,06:03 PM
+Monday,11/10/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 37m,10h 37m,'-,'-,'-,10h 37m,10h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:34 AM,07:10 PM
+Monday,11/10/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:07 PM
+Monday,11/10/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,13h 18m,13h 18m,'-,'-,'-,13h 18m,13h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,
+Monday,11/10/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,06:57 PM
+Monday,11/10/2025,Sara Gawde,SG-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:01 PM
+Monday,11/10/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:12 PM
+Monday,11/10/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 19m,8h 19m,'-,'-,'-,8h 19m,8h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,07:01 PM
+Monday,11/10/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,13h 40m,13h 40m,'-,'-,'-,13h 40m,13h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,
+Monday,11/10/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,7h 39m,7h 39m,'-,'-,'-,7h 39m,7h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:12 AM,06:51 PM
+Monday,11/10/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,19h 05m,19h 05m,'-,'-,'-,19h 05m,19h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:03 AM,07:05 PM
+Tuesday,11/11/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Aryan Raut,AR-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:34 AM,06:31 PM
+Tuesday,11/11/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:07 AM,07:26 PM
+Tuesday,11/11/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,6h 33m,6h 33m,'-,'-,'-,6h 33m,6h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,12:38 PM,07:11 PM
+Tuesday,11/11/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,19h 15m,19h 15m,'-,'-,'-,19h 15m,19h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:14 PM
+Tuesday,11/11/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,07:10 PM
+Tuesday,11/11/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 10m,8h 10m,'-,'-,'-,8h 10m,8h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:55 AM,07:05 PM
+Tuesday,11/11/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,9h 10m,9h 10m,'-,'-,'-,9h 10m,9h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:55 AM,07:05 PM
+Tuesday,11/11/2025,"Priya ",P-1,,,Default Work Schedule,7h 59m,7h 59m,'-,'-,'-,7h 59m,7h 59m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:01 AM,06:00 PM
+Tuesday,11/11/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 10m,10h 10m,'-,'-,'-,10h 10m,10h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:00 AM,07:11 PM
+Tuesday,11/11/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:16 PM
+Tuesday,11/11/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,19h 14m,19h 14m,'-,'-,'-,19h 14m,19h 14m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,07:14 PM
+Tuesday,11/11/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:06 AM,06:55 PM
+Tuesday,11/11/2025,Sara Gawde,SG-1,,,Default Work Schedule,18h 52m,18h 52m,'-,'-,'-,18h 52m,18h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,06:52 PM
+Tuesday,11/11/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 20m,8h 20m,'-,'-,'-,8h 20m,8h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,06:57 PM
+Tuesday,11/11/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:08 PM
+Tuesday,11/11/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 10m,8h 10m,'-,'-,'-,8h 10m,8h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:52 AM,07:01 PM
+Tuesday,11/11/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,19h 05m,19h 05m,'-,'-,'-,19h 05m,19h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:54 AM,07:05 PM
+Tuesday,11/11/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,7h 38m,7h 38m,'-,'-,'-,7h 38m,7h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:31 AM,07:09 PM
+Wednesday,11/12/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Aryan Raut,AR-1,,,Default Work Schedule,9h 33m,9h 33m,'-,'-,'-,9h 33m,9h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:40 AM,07:13 PM
+Wednesday,11/12/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:02 AM,07:22 PM
+Wednesday,11/12/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 06m,8h 06m,'-,'-,'-,8h 06m,8h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:08 AM,07:15 PM
+Wednesday,11/12/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,9h 10m,9h 10m,'-,'-,'-,9h 10m,9h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:18 AM,07:28 PM
+Wednesday,11/12/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 15m,8h 15m,'-,'-,'-,8h 15m,8h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,06:59 PM
+Wednesday,11/12/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,06:58 PM
+Wednesday,11/12/2025,"Priya ",P-1,,,Default Work Schedule,7h 58m,7h 58m,'-,'-,'-,7h 58m,7h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,06:03 PM
+Wednesday,11/12/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 00m,10h 00m,'-,'-,'-,10h 00m,10h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:05 AM,07:05 PM
+Wednesday,11/12/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:07 PM
+Wednesday,11/12/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Sanket Mishra,SM-1,,,Default Work Schedule,13h 52m,13h 52m,'-,'-,'-,13h 52m,13h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:08 AM,
+Wednesday,11/12/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 19m,8h 19m,'-,'-,'-,8h 19m,8h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,06:50 PM
+Wednesday,11/12/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 23m,8h 23m,'-,'-,'-,8h 23m,8h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,06:58 PM
+Wednesday,11/12/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,07:13 PM
+Wednesday,11/12/2025,Sneha Gurav,sg-2,,,Default Work Schedule,13h 11m,13h 11m,'-,'-,'-,13h 11m,13h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:49 AM,
+Wednesday,11/12/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,13h 03m,13h 03m,'-,'-,'-,13h 03m,13h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:56 AM,
+Wednesday,11/12/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Aryan Raut,AR-1,,,Default Work Schedule,14h 16m,14h 16m,'-,'-,'-,14h 16m,14h 16m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:43 AM,
+Thursday,11/13/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:03 AM,07:57 PM
+Thursday,11/13/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 01m,8h 01m,'-,'-,'-,8h 01m,8h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:16 AM,07:17 PM
+Thursday,11/13/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,9h 24m,9h 24m,'-,'-,'-,9h 24m,9h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:52 AM,07:16 PM
+Thursday,11/13/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 22m,8h 22m,'-,'-,'-,8h 22m,8h 22m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,07:03 PM
+Thursday,11/13/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,12h 55m,12h 55m,'-,'-,'-,12h 55m,12h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:04 AM,
+Thursday,11/13/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,06:53 PM
+Thursday,11/13/2025,"Priya ",P-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 05m,10h 05m,'-,'-,'-,10h 05m,10h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:59 AM,07:04 PM
+Thursday,11/13/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:13 PM
+Thursday,11/13/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,4h 20m,4h 20m,'-,'-,'-,4h 20m,4h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,02:47 PM,07:06 PM
+Thursday,11/13/2025,Sanket Mishra,SM-1,,,Default Work Schedule,18h 53m,18h 53m,'-,'-,'-,18h 53m,18h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:18 AM,06:52 PM
+Thursday,11/13/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 08m,8h 08m,'-,'-,'-,8h 08m,8h 08m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,06:50 PM
+Thursday,11/13/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,13h 25m,13h 25m,'-,'-,'-,13h 25m,13h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,
+Thursday,11/13/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,07:13 PM
+Thursday,11/13/2025,Sneha Gurav,sg-2,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,06:59 PM
+Thursday,11/13/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,19h 07m,19h 07m,'-,'-,'-,19h 07m,19h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,07:06 PM
+Thursday,11/13/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,7h 19m,7h 19m,'-,'-,'-,7h 19m,7h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:53 AM,07:12 PM
+Friday,11/14/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Aryan Raut,AR-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:04 AM,08:04 AM
+Friday,11/14/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,07:18 PM
+Friday,11/14/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,13h 55m,13h 55m,'-,'-,'-,13h 55m,13h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,
+Friday,11/14/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,5h 01m,5h 01m,'-,'-,'-,5h 01m,5h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,03:40 PM
+Friday,11/14/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,19h 11m,19h 11m,'-,'-,'-,19h 11m,19h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:03 AM,07:11 PM
+Friday,11/14/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:19 AM,06:59 PM
+Friday,11/14/2025,"Priya ",P-1,,,Default Work Schedule,7h 40m,7h 40m,'-,'-,'-,7h 40m,7h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,06:04 PM
+Friday,11/14/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 58m,9h 58m,'-,'-,'-,9h 58m,9h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:11 AM,07:09 PM
+Friday,11/14/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:08 PM
+Friday,11/14/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,13h 09m,13h 09m,'-,'-,'-,13h 09m,13h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:51 AM,
+Friday,11/14/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,06:54 PM
+Friday,11/14/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 17m,8h 17m,'-,'-,'-,8h 17m,8h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,06:50 PM
+Friday,11/14/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,19h 02m,19h 02m,'-,'-,'-,19h 02m,19h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:02 PM
+Friday,11/14/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:40 AM,07:11 PM
+Friday,11/14/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,06:58 PM
+Friday,11/14/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,13h 17m,13h 17m,'-,'-,'-,13h 17m,13h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:43 AM,
+Friday,11/14/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,12h 39m,12h 39m,'-,'-,'-,12h 39m,12h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:21 AM,
+Saturday,11/15/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Aryan Raut,AR-1,,,Default Work Schedule,18h 56m,18h 56m,'-,'-,'-,18h 56m,18h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:46 AM,06:56 PM
+Saturday,11/15/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:05 AM,07:18 PM
+Saturday,11/15/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 09m,8h 09m,'-,'-,'-,8h 09m,8h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:01 AM,07:10 PM
+Saturday,11/15/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:56 AM,09:56 AM
+Saturday,11/15/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,5h 04m,5h 04m,'-,'-,'-,5h 04m,5h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:40 AM,03:44 PM
+Saturday,11/15/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,06:56 PM
+Saturday,11/15/2025,"Priya ",P-1,,,Default Work Schedule,7h 43m,7h 43m,'-,'-,'-,7h 43m,7h 43m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,05:59 PM
+Saturday,11/15/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 59m,9h 59m,'-,'-,'-,9h 59m,9h 59m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:05 AM,07:03 PM
+Saturday,11/15/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:08 PM
+Saturday,11/15/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,18h 58m,18h 58m,'-,'-,'-,18h 58m,18h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,12:21 PM,06:57 PM
+Saturday,11/15/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,06:53 PM
+Saturday,11/15/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,06:52 PM
+Saturday,11/15/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:49 AM,07:17 PM
+Saturday,11/15/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,06:59 PM
+Saturday,11/15/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:46 AM,10:46 AM
+Saturday,11/15/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Aryan Raut,AR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Priya ",P-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Ram Garib,RG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Sanket Mishra,SM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Sara Gawde,SG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Sneha Gurav,sg-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,19h 34m,19h 34m,'-,'-,'-,19h 34m,19h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:15 AM,07:34 PM
+Monday,11/17/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Aryan Raut,AR-1,,,Default Work Schedule,9h 20m,9h 20m,'-,'-,'-,9h 20m,9h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:00 AM,07:20 PM
+Monday,11/17/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:27 AM,07:32 PM
+Monday,11/17/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 17m,8h 17m,'-,'-,'-,8h 17m,8h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:06 AM,07:24 PM
+Monday,11/17/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,20h 39m,20h 39m,'-,'-,'-,20h 39m,20h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:48 AM,08:39 PM
+Monday,11/17/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 18m,8h 18m,'-,'-,'-,8h 18m,8h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:45 AM,07:03 PM
+Monday,11/17/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,8h 20m,8h 20m,'-,'-,'-,8h 20m,8h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:00 AM,07:20 PM
+Monday,11/17/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,06:57 PM
+Monday,11/17/2025,"Priya ",P-1,,,Default Work Schedule,7h 43m,7h 43m,'-,'-,'-,7h 43m,7h 43m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,06:00 PM
+Monday,11/17/2025,Ram Garib,RG-1,,,Default Work Schedule,15h 14m,15h 14m,'-,'-,'-,15h 14m,15h 14m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:46 AM,
+Monday,11/17/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 47m,8h 47m,'-,'-,'-,8h 47m,8h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,07:07 PM
+Monday,11/17/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,07:20 PM
+Monday,11/17/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 48m,8h 48m,'-,'-,'-,8h 48m,8h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:06 AM,06:54 PM
+Monday,11/17/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 18m,8h 18m,'-,'-,'-,8h 18m,8h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,06:50 PM
+Monday,11/17/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 48m,8h 48m,'-,'-,'-,8h 48m,8h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,07:09 PM
+Monday,11/17/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:07 PM
+Monday,11/17/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,06:59 PM
+Monday,11/17/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,19h 20m,19h 20m,'-,'-,'-,19h 20m,19h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:20 PM
+Monday,11/17/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,8h 04m,8h 04m,'-,'-,'-,8h 04m,8h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:11 AM,07:15 PM
+Tuesday,11/18/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Aryan Raut,AR-1,,,Default Work Schedule,9h 02m,9h 02m,'-,'-,'-,9h 02m,9h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:40 AM,06:42 PM
+Tuesday,11/18/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:10 AM,07:20 PM
+Tuesday,11/18/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,7h 45m,7h 45m,'-,'-,'-,7h 45m,7h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,12:00 PM,07:45 PM
+Tuesday,11/18/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,14h 04m,14h 04m,'-,'-,'-,14h 04m,14h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:55 AM,
+Tuesday,11/18/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 14m,8h 14m,'-,'-,'-,8h 14m,8h 14m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:48 AM,07:02 PM
+Tuesday,11/18/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,5h 13m,5h 13m,'-,'-,'-,5h 13m,5h 13m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,01:55 PM,07:07 PM
+Tuesday,11/18/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:00 PM
+Tuesday,11/18/2025,"Priya ",P-1,,,Default Work Schedule,7h 38m,7h 38m,'-,'-,'-,7h 38m,7h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,05:59 PM
+Tuesday,11/18/2025,Ram Garib,RG-1,,,Default Work Schedule,19h 10m,19h 10m,'-,'-,'-,19h 10m,19h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:13 AM,07:10 PM
+Tuesday,11/18/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:20 PM
+Tuesday,11/18/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,4h 46m,4h 46m,'-,'-,'-,4h 46m,4h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:14 PM,
+Tuesday,11/18/2025,Sanket Mishra,SM-1,,,Default Work Schedule,9h 00m,9h 00m,'-,'-,'-,9h 00m,9h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:58 AM,06:57 PM
+Tuesday,11/18/2025,Sara Gawde,SG-1,,,Default Work Schedule,13h 24m,13h 24m,'-,'-,'-,13h 24m,13h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,
+Tuesday,11/18/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:04 PM
+Tuesday,11/18/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,5h 34m,5h 34m,'-,'-,'-,5h 34m,5h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,01:42 PM,07:16 PM
+Tuesday,11/18/2025,Sneha Gurav,sg-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,8h 10m,8h 10m,'-,'-,'-,8h 10m,8h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:59 AM,07:09 PM
+Tuesday,11/18/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,7h 35m,7h 35m,'-,'-,'-,7h 35m,7h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:34 AM,07:09 PM
+Wednesday,11/19/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Aryan Raut,AR-1,,,Default Work Schedule,8h 45m,8h 45m,'-,'-,'-,8h 45m,8h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:51 AM,06:36 PM
+Wednesday,11/19/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:21 AM,07:20 PM
+Wednesday,11/19/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,8h 11m,8h 11m,'-,'-,'-,8h 11m,8h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:24 AM,07:37 PM
+Wednesday,11/19/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,20h 38m,20h 38m,'-,'-,'-,20h 38m,20h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:53 AM,08:38 PM
+Wednesday,11/19/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 11m,8h 11m,'-,'-,'-,8h 11m,8h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,07:02 PM
+Wednesday,11/19/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,7h 22m,7h 22m,'-,'-,'-,7h 22m,7h 22m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:35 AM,06:57 PM
+Wednesday,11/19/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,06:53 PM
+Wednesday,11/19/2025,"Priya ",P-1,,,Default Work Schedule,7h 34m,7h 34m,'-,'-,'-,7h 34m,7h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,06:05 PM
+Wednesday,11/19/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 56m,9h 56m,'-,'-,'-,9h 56m,9h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:12 AM,07:08 PM
+Wednesday,11/19/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:05 PM
+Wednesday,11/19/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,19h 09m,19h 09m,'-,'-,'-,19h 09m,19h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:08 PM
+Wednesday,11/19/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 57m,8h 57m,'-,'-,'-,8h 57m,8h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:58 AM,06:55 PM
+Wednesday,11/19/2025,Sara Gawde,SG-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:40 AM,10:40 AM
+Wednesday,11/19/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:03 PM
+Wednesday,11/19/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:40 AM,07:10 PM
+Wednesday,11/19/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:06 PM
+Wednesday,11/19/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,8h 18m,8h 18m,'-,'-,'-,8h 18m,8h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,07:08 PM
+Wednesday,11/19/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,AMAR SINGH,AS-1,,,Default Work Schedule,2h 17m,2h 17m,'-,'-,'-,2h 17m,2h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,04:45 PM,07:02 PM
+Thursday,11/20/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,8h 08m,8h 08m,'-,'-,'-,8h 08m,8h 08m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:30 AM,07:38 PM
+Thursday,11/20/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,16h 31m,16h 31m,'-,'-,'-,16h 31m,16h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,04:30 PM
+Thursday,11/20/2025,Aryan Raut,AR-1,,,Default Work Schedule,14h 15m,14h 15m,'-,'-,'-,14h 15m,14h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:44 AM,
+Thursday,11/20/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,2h 15m,2h 15m,'-,'-,'-,2h 15m,2h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,04:49 PM,07:04 PM
+Thursday,11/20/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:38 AM,07:24 PM
+Thursday,11/20/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:06 PM
+Thursday,11/20/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Mahendra Singh,MS-1,,,Default Work Schedule,2h 15m,2h 15m,'-,'-,'-,2h 15m,2h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,04:47 PM,07:02 PM
+Thursday,11/20/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,16h 33m,16h 33m,'-,'-,'-,16h 33m,16h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,04:33 PM
+Thursday,11/20/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,5h 29m,5h 29m,'-,'-,'-,5h 29m,5h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:05 AM,04:33 PM
+Thursday,11/20/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,14h 09m,14h 09m,'-,'-,'-,14h 09m,14h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:50 AM,
+Thursday,11/20/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 07m,8h 07m,'-,'-,'-,8h 07m,8h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:51 AM,06:58 PM
+Thursday,11/20/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,7h 31m,7h 31m,'-,'-,'-,7h 31m,7h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:44 AM,07:15 PM
+Thursday,11/20/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,6h 16m,6h 16m,'-,'-,'-,6h 16m,6h 16m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:18 AM,04:34 PM
+Thursday,11/20/2025,"Priya ",P-1,,,Default Work Schedule,7h 33m,7h 33m,'-,'-,'-,7h 33m,7h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,06:00 PM
+Thursday,11/20/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 17m,10h 17m,'-,'-,'-,10h 17m,10h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:18 AM,07:35 PM
+Thursday,11/20/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:05 PM
+Thursday,11/20/2025,"Ruchi ",R-1,,,Default Work Schedule,0h 40m,0h 40m,'-,'-,'-,0h 40m,0h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,06:25 PM,07:05 PM
+Thursday,11/20/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,5h 45m,5h 45m,'-,'-,'-,5h 45m,5h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,04:35 PM
+Thursday,11/20/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:01 AM,06:52 PM
+Thursday,11/20/2025,Sara Gawde,SG-1,,,Default Work Schedule,18h 50m,18h 50m,'-,'-,'-,18h 50m,18h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,06:50 PM
+Thursday,11/20/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,6h 06m,6h 06m,'-,'-,'-,6h 06m,6h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,04:35 PM
+Thursday,11/20/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,5h 52m,5h 52m,'-,'-,'-,5h 52m,5h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,04:36 PM
+Thursday,11/20/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,06:59 PM
+Thursday,11/20/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,5h 39m,5h 39m,'-,'-,'-,5h 39m,5h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:57 AM,04:36 PM
+Thursday,11/20/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:06 PM
+Thursday,11/20/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,06:54 PM
+Friday,11/21/2025,AMAR SINGH,AS-1,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:01 AM,07:28 PM
+Friday,11/21/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Aryan Raut,AR-1,,,Default Work Schedule,18h 49m,18h 49m,'-,'-,'-,18h 49m,18h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:44 AM,06:49 PM
+Friday,11/21/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,8h 42m,8h 42m,'-,'-,'-,8h 42m,8h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,07:05 PM
+Friday,11/21/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:13 AM,07:35 PM
+Friday,11/21/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 48m,8h 48m,'-,'-,'-,8h 48m,8h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,07:10 PM
+Friday,11/21/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:05 PM
+Friday,11/21/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:34 AM,09:34 AM
+Friday,11/21/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,9h 01m,9h 01m,'-,'-,'-,9h 01m,9h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:58 AM,06:59 PM
+Friday,11/21/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,7h 56m,7h 56m,'-,'-,'-,7h 56m,7h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:02 AM,06:58 PM
+Friday,11/21/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,7h 18m,7h 18m,'-,'-,'-,7h 18m,7h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:43 AM,07:01 PM
+Friday,11/21/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,"Priya ",P-1,,,Default Work Schedule,7h 30m,7h 30m,'-,'-,'-,7h 30m,7h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,06:01 PM
+Friday,11/21/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 56m,9h 56m,'-,'-,'-,9h 56m,9h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:05 AM,07:01 PM
+Friday,11/21/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:05 PM
+Friday,11/21/2025,"Ruchi ",R-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:06 PM
+Friday,11/21/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,06:55 PM
+Friday,11/21/2025,Sara Gawde,SG-1,,,Default Work Schedule,13h 26m,13h 26m,'-,'-,'-,13h 26m,13h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,
+Friday,11/21/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 21m,8h 21m,'-,'-,'-,8h 21m,8h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,07:00 PM
+Friday,11/21/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:07 PM
+Friday,11/21/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,8h 04m,8h 04m,'-,'-,'-,8h 04m,8h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:55 AM,06:59 PM
+Saturday,11/22/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,7h 34m,7h 34m,'-,'-,'-,7h 34m,7h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:35 AM,07:09 PM
+Saturday,11/22/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Aryan Raut,AR-1,,,Default Work Schedule,9h 30m,9h 30m,'-,'-,'-,9h 30m,9h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:40 AM,07:10 PM
+Saturday,11/22/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,07:05 PM
+Saturday,11/22/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:57 AM,07:17 PM
+Saturday,11/22/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:09 PM
+Saturday,11/22/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:08 PM
+Saturday,11/22/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,19h 01m,19h 01m,'-,'-,'-,19h 01m,19h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:46 AM,07:00 PM
+Saturday,11/22/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:14 AM,06:45 PM
+Saturday,11/22/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 04m,8h 04m,'-,'-,'-,8h 04m,8h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:52 AM,06:56 PM
+Saturday,11/22/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,7h 06m,7h 06m,'-,'-,'-,7h 06m,7h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:56 AM,07:02 PM
+Saturday,11/22/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,"Priya ",P-1,,,Default Work Schedule,7h 27m,7h 27m,'-,'-,'-,7h 27m,7h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,06:05 PM
+Saturday,11/22/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 54m,9h 54m,'-,'-,'-,9h 54m,9h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:08 AM,07:02 PM
+Saturday,11/22/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:04 PM
+Saturday,11/22/2025,"Ruchi ",R-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,07:11 PM
+Saturday,11/22/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Sanket Mishra,SM-1,,,Default Work Schedule,9h 23m,9h 23m,'-,'-,'-,9h 23m,9h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:40 AM,07:02 PM
+Saturday,11/22/2025,Sara Gawde,SG-1,,,Default Work Schedule,18h 47m,18h 47m,'-,'-,'-,18h 47m,18h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:46 AM,06:47 PM
+Saturday,11/22/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,06:59 PM
+Saturday,11/22/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,8h 42m,8h 42m,'-,'-,'-,8h 42m,8h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:07 PM
+Saturday,11/22/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,7h 27m,7h 27m,'-,'-,'-,7h 27m,7h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:01 AM,06:27 PM
+Sunday,11/23/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Aryan Raut,AR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Priya ",P-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Ram Garib,RG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Sanket Mishra,SM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Sara Gawde,SG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Sneha Gurav,sg-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,AMAR SINGH,AS-1,,,Default Work Schedule,3h 30m,3h 30m,'-,'-,'-,3h 30m,3h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,03:34 PM,07:04 PM
+Monday,11/24/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,12h 24m,12h 24m,'-,'-,'-,12h 24m,12h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:35 AM,
+Monday,11/24/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Aryan Raut,AR-1,,,Default Work Schedule,14h 19m,14h 19m,'-,'-,'-,14h 19m,14h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:40 AM,
+Monday,11/24/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:37 AM,07:19 PM
+Monday,11/24/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:07 PM
+Monday,11/24/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:06 PM
+Monday,11/24/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,14h 06m,14h 06m,'-,'-,'-,14h 06m,14h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:54 AM,
+Monday,11/24/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,8h 45m,8h 45m,'-,'-,'-,8h 45m,8h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:13 AM,06:58 PM
+Monday,11/24/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 16m,8h 16m,'-,'-,'-,8h 16m,8h 16m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,07:00 PM
+Monday,11/24/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,"Priya ",P-1,,,Default Work Schedule,7h 39m,7h 39m,'-,'-,'-,7h 39m,7h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,06:00 PM
+Monday,11/24/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 21m,10h 21m,'-,'-,'-,10h 21m,10h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:58 AM,07:19 PM
+Monday,11/24/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:05 PM
+Monday,11/24/2025,"Ruchi ",R-1,,,Default Work Schedule,8h 19m,8h 19m,'-,'-,'-,8h 19m,8h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:48 AM,07:06 PM
+Monday,11/24/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 51m,8h 51m,'-,'-,'-,8h 51m,8h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:02 AM,06:53 PM
+Monday,11/24/2025,Sara Gawde,SG-1,,,Default Work Schedule,12h 52m,12h 52m,'-,'-,'-,12h 52m,12h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:08 AM,
+Monday,11/24/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,07:01 PM
+Monday,11/24/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:06 PM
+Monday,11/24/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,7h 57m,7h 57m,'-,'-,'-,7h 57m,7h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:05 AM,07:02 PM
+Tuesday,11/25/2025,AMAR SINGH,AS-1,,,Default Work Schedule,8h 01m,8h 01m,'-,'-,'-,8h 01m,8h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:04 AM,07:04 PM
+Tuesday,11/25/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,10:19 AM
+Tuesday,11/25/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Aryan Raut,AR-1,,,Default Work Schedule,18h 37m,18h 37m,'-,'-,'-,18h 37m,18h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:38 AM,06:37 PM
+Tuesday,11/25/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:07 PM
+Tuesday,11/25/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:26 AM,07:25 PM
+Tuesday,11/25/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,9h 07m,9h 07m,'-,'-,'-,9h 07m,9h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:34 PM
+Tuesday,11/25/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:05 PM
+Tuesday,11/25/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,20h 25m,20h 25m,'-,'-,'-,20h 25m,20h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:55 AM,08:25 PM
+Tuesday,11/25/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,9h 02m,9h 02m,'-,'-,'-,9h 02m,9h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:00 AM,07:01 PM
+Tuesday,11/25/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 04m,8h 04m,'-,'-,'-,8h 04m,8h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:55 AM,06:59 PM
+Tuesday,11/25/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,"Priya ",P-1,,,Default Work Schedule,7h 34m,7h 34m,'-,'-,'-,7h 34m,7h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,06:02 PM
+Tuesday,11/25/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 15m,10h 15m,'-,'-,'-,10h 15m,10h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:18 AM,07:34 PM
+Tuesday,11/25/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,6h 38m,6h 38m,'-,'-,'-,6h 38m,6h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,12:55 PM,07:33 PM
+Tuesday,11/25/2025,"Ruchi ",R-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,07:09 PM
+Tuesday,11/25/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Sanket Mishra,SM-1,,,Default Work Schedule,7h 09m,7h 09m,'-,'-,'-,7h 09m,7h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:08 AM,05:16 PM
+Tuesday,11/25/2025,Sara Gawde,SG-1,,,Default Work Schedule,18h 49m,18h 49m,'-,'-,'-,18h 49m,18h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,06:49 PM
+Tuesday,11/25/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:03 PM
+Tuesday,11/25/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,5h 40m,5h 40m,'-,'-,'-,5h 40m,5h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,01:54 PM,07:34 PM
+Tuesday,11/25/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,7h 25m,7h 25m,'-,'-,'-,7h 25m,7h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:01 AM,06:27 PM
+Wednesday,11/26/2025,AMAR SINGH,AS-1,,,Default Work Schedule,8h 06m,8h 06m,'-,'-,'-,8h 06m,8h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:02 AM,07:08 PM
+Wednesday,11/26/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,19h 07m,19h 07m,'-,'-,'-,19h 07m,19h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:43 AM,07:06 PM
+Wednesday,11/26/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Aryan Raut,AR-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:58 AM,06:34 PM
+Wednesday,11/26/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,8h 56m,8h 56m,'-,'-,'-,8h 56m,8h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,07:08 PM
+Wednesday,11/26/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:36 AM,07:07 PM
+Wednesday,11/26/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:10 PM
+Wednesday,11/26/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:04 PM
+Wednesday,11/26/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,14h 06m,14h 06m,'-,'-,'-,14h 06m,14h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:53 AM,
+Wednesday,11/26/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,13h 52m,13h 52m,'-,'-,'-,13h 52m,13h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:08 AM,
+Wednesday,11/26/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 21m,8h 21m,'-,'-,'-,8h 21m,8h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,06:59 PM
+Wednesday,11/26/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,"Priya ",P-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 02m,10h 02m,'-,'-,'-,10h 02m,10h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:00 AM,07:02 PM
+Wednesday,11/26/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:06 PM
+Wednesday,11/26/2025,"Ruchi ",R-1,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,07:07 PM
+Wednesday,11/26/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 54m,8h 54m,'-,'-,'-,8h 54m,8h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:56 AM,06:50 PM
+Wednesday,11/26/2025,Sara Gawde,SG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:00 PM
+Wednesday,11/26/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,07:07 PM
+Wednesday,11/26/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,7h 49m,7h 49m,'-,'-,'-,7h 49m,7h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:05 AM,06:54 PM
+Thursday,11/27/2025,AMAR SINGH,AS-1,,,Default Work Schedule,8h 05m,8h 05m,'-,'-,'-,8h 05m,8h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:56 AM,07:02 PM
+Thursday,11/27/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,7h 25m,7h 25m,'-,'-,'-,7h 25m,7h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:45 AM,07:10 PM
+Thursday,11/27/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Aryan Raut,AR-1,,,Default Work Schedule,14h 01m,14h 01m,'-,'-,'-,14h 01m,14h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:59 AM,
+Thursday,11/27/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,07:06 PM
+Thursday,11/27/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:18 AM,07:17 PM
+Thursday,11/27/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:12 PM
+Thursday,11/27/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:09 PM
+Thursday,11/27/2025,Manu Yadav,MY-1,,,Default Work Schedule,13h 21m,13h 21m,'-,'-,'-,13h 21m,13h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,
+Thursday,11/27/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:52 AM,09:52 AM
+Thursday,11/27/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:00 PM
+Thursday,11/27/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 10m,8h 10m,'-,'-,'-,8h 10m,8h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:51 AM,07:01 PM
+Thursday,11/27/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,"Priya ",P-1,,,Default Work Schedule,7h 46m,7h 46m,'-,'-,'-,7h 46m,7h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,06:02 PM
+Thursday,11/27/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 04m,10h 04m,'-,'-,'-,10h 04m,10h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:06 AM,07:10 PM
+Thursday,11/27/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:07 PM
+Thursday,11/27/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:03 AM,06:53 PM
+Thursday,11/27/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 17m,8h 17m,'-,'-,'-,8h 17m,8h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,06:51 PM
+Thursday,11/27/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:01 PM
+Thursday,11/27/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,13h 28m,13h 28m,'-,'-,'-,13h 28m,13h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,
+Thursday,11/27/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,7h 23m,7h 23m,'-,'-,'-,7h 23m,7h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:01 AM,06:24 PM
+Friday,11/28/2025,AMAR SINGH,AS-1,,,Default Work Schedule,7h 36m,7h 36m,'-,'-,'-,7h 36m,7h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:27 AM,07:03 PM
+Friday,11/28/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Aryan Raut,AR-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:42 AM,09:42 AM
+Friday,11/28/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,8h 53m,8h 53m,'-,'-,'-,8h 53m,8h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:05 PM
+Friday,11/28/2025,Harji Mali,HM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:33 AM,07:20 PM
+Friday,11/28/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:18 AM,07:07 PM
+Friday,11/28/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:08 PM
+Friday,11/28/2025,Manu Yadav,MY-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:59 AM,10:59 AM
+Friday,11/28/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:46 AM,09:46 AM
+Friday,11/28/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:03 AM,07:00 PM
+Friday,11/28/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 11m,8h 11m,'-,'-,'-,8h 11m,8h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,06:59 PM
+Friday,11/28/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,"Priya ",P-1,,,Default Work Schedule,7h 45m,7h 45m,'-,'-,'-,7h 45m,7h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,06:01 PM
+Friday,11/28/2025,Ram Garib,RG-1,,,Default Work Schedule,10h 11m,10h 11m,'-,'-,'-,10h 11m,10h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:02 AM,07:13 PM
+Friday,11/28/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:04 PM
+Friday,11/28/2025,"Ruchi ",R-1,,,Default Work Schedule,8h 21m,8h 21m,'-,'-,'-,8h 21m,8h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:45 AM,07:06 PM
+Friday,11/28/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Sanket Mishra,SM-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,06:56 PM
+Friday,11/28/2025,Sara Gawde,SG-1,,,Default Work Schedule,8h 14m,8h 14m,'-,'-,'-,8h 14m,8h 14m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,06:51 PM
+Friday,11/28/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 20m,8h 20m,'-,'-,'-,8h 20m,8h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,06:59 PM
+Friday,11/28/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,10:28 AM
+Friday,11/28/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,8h 11m,8h 11m,'-,'-,'-,8h 11m,8h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:54 AM,07:05 PM
+Saturday,11/29/2025,AMAR SINGH,AS-1,,,Default Work Schedule,8h 13m,8h 13m,'-,'-,'-,8h 13m,8h 13m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:51 AM,07:04 PM
+Saturday,11/29/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,12h 20m,12h 20m,'-,'-,'-,12h 20m,12h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:39 AM,
+Saturday,11/29/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Aryan Raut,AR-1,,,Default Work Schedule,19h 02m,19h 02m,'-,'-,'-,19h 02m,19h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:43 AM,07:02 PM
+Saturday,11/29/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,07:03 PM
+Saturday,11/29/2025,Harji Mali,HM-1,,,Default Work Schedule,20h 00m,20h 00m,'-,'-,'-,20h 00m,20h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:07 AM,08:00 PM
+Saturday,11/29/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:09 PM
+Saturday,11/29/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Mahendra Singh,MS-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:11 PM
+Saturday,11/29/2025,Manu Yadav,MY-1,,,Default Work Schedule,18h 59m,18h 59m,'-,'-,'-,18h 59m,18h 59m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,06:58 PM
+Saturday,11/29/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,17h 57m,17h 57m,'-,'-,'-,17h 57m,17h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,07:55 PM
+Saturday,11/29/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,9h 00m,9h 00m,'-,'-,'-,9h 00m,9h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:02 AM,07:02 PM
+Saturday,11/29/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,8h 11m,8h 11m,'-,'-,'-,8h 11m,8h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:46 AM,06:57 PM
+Saturday,11/29/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,"Priya ",P-1,,,Default Work Schedule,7h 41m,7h 41m,'-,'-,'-,7h 41m,7h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,06:02 PM
+Saturday,11/29/2025,Ram Garib,RG-1,,,Default Work Schedule,9h 54m,9h 54m,'-,'-,'-,9h 54m,9h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:08 AM,07:03 PM
+Saturday,11/29/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:06 PM
+Saturday,11/29/2025,"Ruchi ",R-1,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,07:08 PM
+Saturday,11/29/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Sanket Mishra,SM-1,,,Default Work Schedule,14h 03m,14h 03m,'-,'-,'-,14h 03m,14h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:56 AM,
+Saturday,11/29/2025,Sara Gawde,SG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Sneha Gurav,sg-2,,,Default Work Schedule,8h 23m,8h 23m,'-,'-,'-,8h 23m,8h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,06:57 PM
+Saturday,11/29/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,19h 06m,19h 06m,'-,'-,'-,19h 06m,19h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:06 PM
+Saturday,11/29/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,8h 00m,8h 00m,'-,'-,'-,8h 00m,8h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:55 AM,06:55 PM
+Sunday,11/30/2025,AMAR SINGH,AS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,AMBICA HR,AH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Anjali Vedwal,AV-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Arfat Belim ",Ara-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Aryan Raut,AR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Ashok Kumar Bind,AK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Harji Mali,HM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Kamlesh Yadav ",KY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Laxmi Yadav,LY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Mahendra Singh,MS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Manu Yadav,MY-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Mayuresh Borkar,MB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Milan Rangankar - BD,MR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Mukesh Dabhi,MD-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"NAITIK SINGH ",NS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Neha Mourya ",NM-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Nusrat Sayed - BD,NFS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Pankaj Gupta,PG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Priya ",P-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Ram Garib,RG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Ravikumar Tikori,RK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Ruchi ",R-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Ruchi Kumari,RK-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Ruchi Shah,RS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Sandeep Gautam - BD,San-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Sanket Mishra,SM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Sara Gawde,SG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Shubham Mahajan - BD,sm-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Smita Amin - BD,sa-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Sneha Gurav,sg-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Unmesh Vaity - BD,UV-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Vikash Kanojiya ",VK-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Vishal Bhosale,VB-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Vishesh Sanghvi,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,

@@ -1,0 +1,721 @@
+Day,Date,Full Name,Member Code,Group,Manager(s),Work Schedule,Tracked Hours,Worked Hours,Break Hours (paid),Break Hours (unpaid),Deductions,Payroll Hours,Regular Hours,Daily OT,Daily Double OT,Weekly OT,Rest Day OT,Public Holiday OT,Daily OT Rate,Daily Double OT Rate,Weekly OT Rate,Rest Day OT Rate,Public Holiday OT Rate,Paid Time Off,Time Off Name,Billable Rate,Billable Amount,First In,Last Out
+Saturday,11/1/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,260441.02,10:24 AM,07:05 PM
+Saturday,11/1/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 22m,8h 22m,'-,'-,'-,8h 22m,8h 22m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,418732.88,10:39 AM,07:02 PM
+Saturday,11/1/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:01 PM
+Saturday,11/1/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,"Dinesh Singh ",24000,,,Default Work Schedule,19h 03m,19h 03m,'-,'-,'-,19h 03m,19h 03m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,457382.53,10:17 AM,07:03 PM
+Saturday,11/1/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:03 PM
+Saturday,11/1/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 54m,7h 54m,'-,'-,'-,7h 54m,7h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:07 AM,07:00 PM
+Saturday,11/1/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:02 PM
+Saturday,11/1/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:02 PM
+Saturday,11/1/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,
+Saturday,11/1/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:04 PM
+Saturday,11/1/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,9h 20m,9h 20m,'-,'-,'-,9h 20m,9h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:08 AM,07:28 PM
+Saturday,11/1/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 42m,7h 42m,'-,'-,'-,7h 42m,7h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,06:30 PM
+Saturday,11/1/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,10h 34m,10h 34m,'-,'-,'-,10h 34m,10h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:39 AM,07:13 PM
+Saturday,11/1/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 54m,8h 54m,'-,'-,'-,8h 54m,8h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:05 PM
+Saturday,11/1/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:03 PM
+Saturday,11/1/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:01 PM
+Saturday,11/1/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/1/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,18h 56m,18h 56m,'-,'-,'-,18h 56m,18h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:52 AM,06:56 PM
+Sunday,11/2/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,'-,,
+Sunday,11/2/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,'-,,
+Sunday,11/2/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Dinesh Singh ",24000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,'-,,
+Sunday,11/2/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Megha Jain,MJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Rohini Nayar,RN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Sharmila Patne,SP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/2/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,261523.62,10:21 AM,07:04 PM
+Monday,11/3/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 08m,8h 08m,'-,'-,'-,8h 08m,8h 08m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,406530.85,10:52 AM,07:00 PM
+Monday,11/3/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Monday,11/3/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,207372.10,10:24 AM,07:02 PM
+Monday,11/3/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,10:32 AM
+Monday,11/3/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:04 PM
+Monday,11/3/2025,Megha Jain,MJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Monday,11/3/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:02 PM
+Monday,11/3/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,19h 01m,19h 01m,'-,'-,'-,19h 01m,19h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:03 AM,07:00 PM
+Monday,11/3/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:04 PM
+Monday,11/3/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,9h 01m,9h 01m,'-,'-,'-,9h 01m,9h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:08 PM
+Monday,11/3/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 17m,7h 17m,'-,'-,'-,7h 17m,7h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:10 AM,06:27 PM
+Monday,11/3/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,10h 35m,10h 35m,'-,'-,'-,10h 35m,10h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:36 AM,07:11 PM
+Monday,11/3/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:15 AM,07:05 PM
+Monday,11/3/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:05 PM
+Monday,11/3/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:01 PM
+Monday,11/3/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/3/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,7h 57m,7h 57m,'-,'-,'-,7h 57m,7h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:56 AM,06:53 PM
+Tuesday,11/4/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 51m,8h 51m,'-,'-,'-,8h 51m,8h 51m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,265296.75,10:13 AM,07:03 PM
+Tuesday,11/4/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,9h 01m,9h 01m,'-,'-,'-,9h 01m,9h 01m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,450756.43,10:48 AM,07:49 PM
+Tuesday,11/4/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:01 PM
+Tuesday,11/4/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 42m,8h 42m,'-,'-,'-,8h 42m,8h 42m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,208728.31,10:20 AM,07:02 PM
+Tuesday,11/4/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,10:28 AM
+Tuesday,11/4/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:03 PM
+Tuesday,11/4/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 56m,7h 56m,'-,'-,'-,7h 56m,7h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:06 AM,07:03 PM
+Tuesday,11/4/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Tuesday,11/4/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:02 PM
+Tuesday,11/4/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,9h 03m,9h 03m,'-,'-,'-,9h 03m,9h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:59 AM,07:02 PM
+Tuesday,11/4/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:03 PM
+Tuesday,11/4/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 57m,8h 57m,'-,'-,'-,8h 57m,8h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:04 PM
+Tuesday,11/4/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 38m,7h 38m,'-,'-,'-,7h 38m,7h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:55 AM,06:32 PM
+Tuesday,11/4/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,11h 20m,11h 20m,'-,'-,'-,11h 20m,11h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:29 AM,07:49 PM
+Tuesday,11/4/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,07:03 PM
+Tuesday,11/4/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:03 PM
+Tuesday,11/4/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Tuesday,11/4/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/4/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,8h 00m,8h 00m,'-,'-,'-,8h 00m,8h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:57 AM,06:57 PM
+Wednesday,11/5/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,259714.11,10:24 AM,07:04 PM
+Wednesday,11/5/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,424450.38,10:37 AM,07:06 PM
+Wednesday,11/5/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,208541.81,10:20 AM,07:02 PM
+Wednesday,11/5/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,10:28 AM
+Wednesday,11/5/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Megha Jain,MJ-1,,,Default Work Schedule,8h 07m,8h 07m,'-,'-,'-,8h 07m,8h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,06:48 PM
+Wednesday,11/5/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:00 PM
+Wednesday,11/5/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,5h 03m,5h 03m,'-,'-,'-,5h 03m,5h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,02:00 PM,07:03 PM
+Wednesday,11/5/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 53m,8h 53m,'-,'-,'-,8h 53m,8h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:04 PM
+Wednesday,11/5/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:03 PM
+Wednesday,11/5/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:04 PM
+Wednesday,11/5/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,0h 00m,0h 00m,'-,'-,'-,0h 00m,0h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,06:26 PM,06:27 PM
+Wednesday,11/5/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,11h 13m,11h 13m,'-,'-,'-,11h 13m,11h 13m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:30 AM,07:43 PM
+Wednesday,11/5/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:15 AM,07:07 PM
+Wednesday,11/5/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:04 PM
+Wednesday,11/5/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:02 PM
+Wednesday,11/5/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/5/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,8h 04m,8h 04m,'-,'-,'-,8h 04m,8h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:54 AM,06:58 PM
+Thursday,11/6/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,262846.66,10:17 AM,07:03 PM
+Thursday,11/6/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 08m,8h 08m,'-,'-,'-,8h 08m,8h 08m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,406428.73,10:58 AM,07:05 PM
+Thursday,11/6/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,07:00 PM
+Thursday,11/6/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,201889.50,10:35 AM,07:00 PM
+Thursday,11/6/2025,Gaurav Mishra,20000,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:00 PM
+Thursday,11/6/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:03 PM
+Thursday,11/6/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 15m,7h 15m,'-,'-,'-,7h 15m,7h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:39 AM,06:53 PM
+Thursday,11/6/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:00 PM
+Thursday,11/6/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:01 PM
+Thursday,11/6/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,9h 01m,9h 01m,'-,'-,'-,9h 01m,9h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:59 AM,07:00 PM
+Thursday,11/6/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:02 PM
+Thursday,11/6/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,9h 11m,9h 11m,'-,'-,'-,9h 11m,9h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,07:15 PM
+Thursday,11/6/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,4h 25m,4h 25m,'-,'-,'-,4h 25m,4h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,02:05 PM,06:30 PM
+Thursday,11/6/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,11h 01m,11h 01m,'-,'-,'-,11h 01m,11h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:28 AM,07:29 PM
+Thursday,11/6/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 54m,8h 54m,'-,'-,'-,8h 54m,8h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:15 AM,07:09 PM
+Thursday,11/6/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:03 PM
+Thursday,11/6/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:00 PM
+Thursday,11/6/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:00 PM
+Thursday,11/6/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/6/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,8h 05m,8h 05m,'-,'-,'-,8h 05m,8h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:53 AM,06:58 PM
+Friday,11/7/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,260720.23,10:22 AM,07:03 PM
+Friday,11/7/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 23m,8h 23m,'-,'-,'-,8h 23m,8h 23m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,419453.46,10:49 AM,07:13 PM
+Friday,11/7/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:01 PM
+Friday,11/7/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,209301.33,10:17 AM,07:00 PM
+Friday,11/7/2025,Gaurav Mishra,20000,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:00 PM
+Friday,11/7/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:05 PM
+Friday,11/7/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 15m,7h 15m,'-,'-,'-,7h 15m,7h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:55 AM,07:10 PM
+Friday,11/7/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,07:00 PM
+Friday,11/7/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:01 PM
+Friday,11/7/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 54m,8h 54m,'-,'-,'-,8h 54m,8h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:01 PM
+Friday,11/7/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:07 PM
+Friday,11/7/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:15 AM,07:02 PM
+Friday,11/7/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 52m,7h 52m,'-,'-,'-,7h 52m,7h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,06:31 PM
+Friday,11/7/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,11h 05m,11h 05m,'-,'-,'-,11h 05m,11h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:06 AM,08:11 PM
+Friday,11/7/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,07:03 PM
+Friday,11/7/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:03 PM
+Friday,11/7/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:01 PM
+Friday,11/7/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/7/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,'-,,
+Saturday,11/8/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,7h 59m,7h 59m,'-,'-,'-,7h 59m,7h 59m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,399048.82,11:01 AM,07:00 PM
+Saturday,11/8/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,07:01 PM
+Saturday,11/8/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,208155.74,10:21 AM,07:01 PM
+Saturday,11/8/2025,Gaurav Mishra,20000,,,Default Work Schedule,13h 35m,13h 35m,'-,'-,'-,13h 35m,13h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,
+Saturday,11/8/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:04 PM
+Saturday,11/8/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 21m,7h 21m,'-,'-,'-,7h 21m,7h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:30 AM,06:51 PM
+Saturday,11/8/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:00 PM
+Saturday,11/8/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,07:01 PM
+Saturday,11/8/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,9h 41m,9h 41m,'-,'-,'-,9h 41m,9h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:06 AM,07:46 PM
+Saturday,11/8/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:04 PM
+Saturday,11/8/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,07:02 PM
+Saturday,11/8/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 51m,7h 51m,'-,'-,'-,7h 51m,7h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,06:25 PM
+Saturday,11/8/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,11h 18m,11h 18m,'-,'-,'-,11h 18m,11h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:53 AM,08:11 PM
+Saturday,11/8/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 51m,8h 51m,'-,'-,'-,8h 51m,8h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:13 AM,07:04 PM
+Saturday,11/8/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:03 PM
+Saturday,11/8/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Saturday,11/8/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:01 PM
+Saturday,11/8/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/8/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,7h 39m,7h 39m,'-,'-,'-,7h 39m,7h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:49 AM,06:28 PM
+Sunday,11/9/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,'-,,
+Sunday,11/9/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,'-,,
+Sunday,11/9/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Dinesh Singh ",24000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,'-,,
+Sunday,11/9/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Megha Jain,MJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Rohini Nayar,RN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Sharmila Patne,SP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/9/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,265146.99,10:14 AM,07:04 PM
+Monday,11/10/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,5h 05m,5h 05m,'-,'-,'-,5h 05m,5h 05m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,254429.29,01:55 PM,07:00 PM
+Monday,11/10/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:00 PM
+Monday,11/10/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 20m,8h 20m,'-,'-,'-,8h 20m,8h 20m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,200187.97,10:40 AM,07:00 PM
+Monday,11/10/2025,Gaurav Mishra,20000,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:00 PM
+Monday,11/10/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:04 PM
+Monday,11/10/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 26m,7h 26m,'-,'-,'-,7h 26m,7h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:34 AM,07:00 PM
+Monday,11/10/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:00 PM
+Monday,11/10/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,07:00 PM
+Monday,11/10/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 57m,8h 57m,'-,'-,'-,8h 57m,8h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:02 AM,06:59 PM
+Monday,11/10/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,07:01 PM
+Monday,11/10/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 34m,7h 34m,'-,'-,'-,7h 34m,7h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:55 AM,06:29 PM
+Monday,11/10/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,10h 59m,10h 59m,'-,'-,'-,10h 59m,10h 59m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:44 AM,07:43 PM
+Monday,11/10/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 45m,8h 45m,'-,'-,'-,8h 45m,8h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,07:06 PM
+Monday,11/10/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:04 PM
+Monday,11/10/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:00 PM
+Monday,11/10/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:00 PM
+Monday,11/10/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/10/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,3h 05m,3h 05m,'-,'-,'-,3h 05m,3h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:50 AM,01:55 PM
+Tuesday,11/11/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 48m,8h 48m,'-,'-,'-,8h 48m,8h 48m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,264025.28,10:16 AM,07:04 PM
+Tuesday,11/11/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 03m,8h 03m,'-,'-,'-,8h 03m,8h 03m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,402501.99,11:00 AM,07:03 PM
+Tuesday,11/11/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,07:01 PM
+Tuesday,11/11/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 55m,8h 55m,'-,'-,'-,8h 55m,8h 55m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,214153.77,10:27 AM,07:22 PM
+Tuesday,11/11/2025,Gaurav Mishra,20000,,,Default Work Schedule,5h 51m,5h 51m,'-,'-,'-,5h 51m,5h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,01:09 PM,07:00 PM
+Tuesday,11/11/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:04 PM
+Tuesday,11/11/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 45m,7h 45m,'-,'-,'-,7h 45m,7h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:09 AM,06:54 PM
+Tuesday,11/11/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:00 PM
+Tuesday,11/11/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:02 PM
+Tuesday,11/11/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:02 AM,07:00 PM
+Tuesday,11/11/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:05 PM
+Tuesday,11/11/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:02 AM,07:00 PM
+Tuesday,11/11/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 42m,7h 42m,'-,'-,'-,7h 42m,7h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:49 AM,06:32 PM
+Tuesday,11/11/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,11h 13m,11h 13m,'-,'-,'-,11h 13m,11h 13m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:37 AM,07:50 PM
+Tuesday,11/11/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:04 PM
+Tuesday,11/11/2025,Sharmila Patne,SP-1,,,Default Work Schedule,0h 01m,0h 01m,'-,'-,'-,0h 01m,0h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:05 PM,07:06 PM
+Tuesday,11/11/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:01 PM
+Tuesday,11/11/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/11/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,4h 00m,4h 00m,'-,'-,'-,4h 00m,4h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:51 AM,02:50 PM
+Wednesday,11/12/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,265142.12,10:13 AM,07:03 PM
+Wednesday,11/12/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 00m,8h 00m,'-,'-,'-,8h 00m,8h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,400225.51,11:04 AM,07:04 PM
+Wednesday,11/12/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Wednesday,11/12/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,206993.18,10:24 AM,07:01 PM
+Wednesday,11/12/2025,Gaurav Mishra,20000,,,Default Work Schedule,13h 41m,13h 41m,'-,'-,'-,13h 41m,13h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:19 AM,
+Wednesday,11/12/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:02 PM
+Wednesday,11/12/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 48m,7h 48m,'-,'-,'-,7h 48m,7h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:15 AM,07:03 PM
+Wednesday,11/12/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:00 PM
+Wednesday,11/12/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:01 PM
+Wednesday,11/12/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 55m,8h 55m,'-,'-,'-,8h 55m,8h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:00 PM
+Wednesday,11/12/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:03 PM
+Wednesday,11/12/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 55m,8h 55m,'-,'-,'-,8h 55m,8h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:01 PM
+Wednesday,11/12/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 33m,7h 33m,'-,'-,'-,7h 33m,7h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:57 AM,06:30 PM
+Wednesday,11/12/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,11h 07m,11h 07m,'-,'-,'-,11h 07m,11h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:31 AM,07:38 PM
+Wednesday,11/12/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:19 AM,07:03 PM
+Wednesday,11/12/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:03 PM
+Wednesday,11/12/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:01 PM
+Wednesday,11/12/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/12/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,261634.27,10:20 AM,07:03 PM
+Thursday,11/13/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,7h 56m,7h 56m,'-,'-,'-,7h 56m,7h 56m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,397030.98,11:09 AM,07:05 PM
+Thursday,11/13/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:01 PM
+Thursday,11/13/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,205539.84,10:28 AM,07:02 PM
+Thursday,11/13/2025,Gaurav Mishra,20000,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,07:00 PM
+Thursday,11/13/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,19h 03m,19h 03m,'-,'-,'-,19h 03m,19h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,07:03 PM
+Thursday,11/13/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:02 PM
+Thursday,11/13/2025,Megha Jain,MJ-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:07 AM,07:38 PM
+Thursday,11/13/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:23 AM,07:00 PM
+Thursday,11/13/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:01 PM
+Thursday,11/13/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 53m,8h 53m,'-,'-,'-,8h 53m,8h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:00 PM
+Thursday,11/13/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:02 PM
+Thursday,11/13/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:08 AM,07:00 PM
+Thursday,11/13/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,8h 04m,8h 04m,'-,'-,'-,8h 04m,8h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,06:33 PM
+Thursday,11/13/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,15h 10m,15h 10m,'-,'-,'-,15h 10m,15h 10m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:49 AM,
+Thursday,11/13/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 48m,8h 48m,'-,'-,'-,8h 48m,8h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:14 AM,07:03 PM
+Thursday,11/13/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:02 PM
+Thursday,11/13/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/13/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,4h 12m,4h 12m,'-,'-,'-,4h 12m,4h 12m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:49 AM,03:01 PM
+Friday,11/14/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,264388.39,10:15 AM,07:04 PM
+Friday,11/14/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 18m,8h 18m,'-,'-,'-,8h 18m,8h 18m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,414839.04,10:46 AM,07:04 PM
+Friday,11/14/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:01 PM
+Friday,11/14/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,206667.08,10:25 AM,07:02 PM
+Friday,11/14/2025,Gaurav Mishra,20000,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:00 PM
+Friday,11/14/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:02 PM
+Friday,11/14/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:03 PM
+Friday,11/14/2025,Megha Jain,MJ-1,,,Default Work Schedule,6h 02m,6h 02m,'-,'-,'-,6h 02m,6h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:07 AM,05:10 PM
+Friday,11/14/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:00 PM
+Friday,11/14/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 23m,8h 23m,'-,'-,'-,8h 23m,8h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,07:01 PM
+Friday,11/14/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 55m,8h 55m,'-,'-,'-,8h 55m,8h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:01 PM
+Friday,11/14/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:03 PM
+Friday,11/14/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 57m,8h 57m,'-,'-,'-,8h 57m,8h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:01 PM
+Friday,11/14/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,8h 11m,8h 11m,'-,'-,'-,8h 11m,8h 11m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,06:41 PM
+Friday,11/14/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,19h 22m,19h 22m,'-,'-,'-,19h 22m,19h 22m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,07:22 PM
+Friday,11/14/2025,Rohini Nayar,RN-1,,,Default Work Schedule,5h 04m,5h 04m,'-,'-,'-,5h 04m,5h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,01:59 PM,07:03 PM
+Friday,11/14/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,07:03 PM
+Friday,11/14/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:03 PM
+Friday,11/14/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 16m,8h 16m,'-,'-,'-,8h 16m,8h 16m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,06:48 PM
+Friday,11/14/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/14/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,264938.91,10:14 AM,07:04 PM
+Saturday,11/15/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,3h 08m,3h 08m,'-,'-,'-,3h 08m,3h 08m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,156581.98,11:00 AM,02:08 PM
+Saturday,11/15/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:00 PM
+Saturday,11/15/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,206241.11,10:26 AM,07:02 PM
+Saturday,11/15/2025,Gaurav Mishra,20000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,6h 47m,6h 47m,'-,'-,'-,6h 47m,6h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,05:20 PM
+Saturday,11/15/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:19 AM,07:03 PM
+Saturday,11/15/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 42m,7h 42m,'-,'-,'-,7h 42m,7h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:12 AM,06:54 PM
+Saturday,11/15/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,5h 07m,5h 07m,'-,'-,'-,5h 07m,5h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,01:52 PM,07:00 PM
+Saturday,11/15/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Saturday,11/15/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:03 AM,07:00 PM
+Saturday,11/15/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:03 PM
+Saturday,11/15/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:15 AM,07:01 PM
+Saturday,11/15/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,8h 07m,8h 07m,'-,'-,'-,8h 07m,8h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,06:42 PM
+Saturday,11/15/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,4h 51m,4h 51m,'-,'-,'-,4h 51m,4h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,07:09 PM,
+Saturday,11/15/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:04 PM
+Saturday,11/15/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:04 PM
+Saturday,11/15/2025,Shruti Hate,SH-1,,,Default Work Schedule,13h 25m,13h 25m,'-,'-,'-,13h 25m,13h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,
+Saturday,11/15/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:00 PM
+Saturday,11/15/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/15/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,'-,,
+Sunday,11/16/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,'-,,
+Sunday,11/16/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Dinesh Singh ",24000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,'-,,
+Sunday,11/16/2025,Gaurav Mishra,20000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Megha Jain,MJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Rohini Nayar,RN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Sharmila Patne,SP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Shruti Hate,SH-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/16/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,261725.51,10:21 AM,07:05 PM
+Monday,11/17/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,'-,,
+Monday,11/17/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:01 PM
+Monday,11/17/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 10m,8h 10m,'-,'-,'-,8h 10m,8h 10m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,195897.23,10:52 AM,07:02 PM
+Monday,11/17/2025,Gaurav Mishra,20000,,,Default Work Schedule,8h 09m,8h 09m,'-,'-,'-,8h 09m,8h 09m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:52 AM,07:01 PM
+Monday,11/17/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,8h 42m,8h 42m,'-,'-,'-,8h 42m,8h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,07:02 PM
+Monday,11/17/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:05 PM
+Monday,11/17/2025,Megha Jain,MJ-1,,,Default Work Schedule,8h 07m,8h 07m,'-,'-,'-,8h 07m,8h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:00 AM,07:07 PM
+Monday,11/17/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:00 PM
+Monday,11/17/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:02 PM
+Monday,11/17/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,9h 18m,9h 18m,'-,'-,'-,9h 18m,9h 18m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:25 PM
+Monday,11/17/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:05 PM
+Monday,11/17/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,9h 21m,9h 21m,'-,'-,'-,9h 21m,9h 21m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,07:25 PM
+Monday,11/17/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 53m,7h 53m,'-,'-,'-,7h 53m,7h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,06:34 PM
+Monday,11/17/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,9h 33m,9h 33m,'-,'-,'-,9h 33m,9h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,09:32 AM
+Monday,11/17/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 59m,8h 59m,'-,'-,'-,8h 59m,8h 59m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:06 AM,07:05 PM
+Monday,11/17/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:04 PM
+Monday,11/17/2025,Shruti Hate,SH-1,,,Default Work Schedule,19h 02m,19h 02m,'-,'-,'-,19h 02m,19h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:02 PM
+Monday,11/17/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:01 PM
+Monday,11/17/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/17/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,8h 08m,8h 08m,'-,'-,'-,8h 08m,8h 08m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:46 AM,06:54 PM
+Tuesday,11/18/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,260482.86,10:23 AM,07:04 PM
+Tuesday,11/18/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,423143.73,10:40 AM,07:08 PM
+Tuesday,11/18/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:01 PM
+Tuesday,11/18/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,207194.10,10:27 AM,07:05 PM
+Tuesday,11/18/2025,Gaurav Mishra,20000,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:00 PM
+Tuesday,11/18/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,13h 23m,13h 23m,'-,'-,'-,13h 23m,13h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,
+Tuesday,11/18/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:03 PM
+Tuesday,11/18/2025,Megha Jain,MJ-1,,,Default Work Schedule,8h 06m,8h 06m,'-,'-,'-,8h 06m,8h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:03 AM,07:10 PM
+Tuesday,11/18/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:04 PM
+Tuesday,11/18/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:02 PM
+Tuesday,11/18/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,13h 51m,13h 51m,'-,'-,'-,13h 51m,13h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:09 AM,
+Tuesday,11/18/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:03 PM
+Tuesday,11/18/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,9h 04m,9h 04m,'-,'-,'-,9h 04m,9h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:11 PM
+Tuesday,11/18/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 46m,7h 46m,'-,'-,'-,7h 46m,7h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:47 AM,06:33 PM
+Tuesday,11/18/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,8h 15m,8h 15m,'-,'-,'-,8h 15m,8h 15m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:56 AM,07:12 PM
+Tuesday,11/18/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 48m,8h 48m,'-,'-,'-,8h 48m,8h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,07:04 PM
+Tuesday,11/18/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:04 PM
+Tuesday,11/18/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:01 PM
+Tuesday,11/18/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:03 PM
+Tuesday,11/18/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/18/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,7h 53m,7h 53m,'-,'-,'-,7h 53m,7h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:00 AM,06:53 PM
+Wednesday,11/19/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 47m,8h 47m,'-,'-,'-,8h 47m,8h 47m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,263519.17,10:16 AM,07:03 PM
+Wednesday,11/19/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,8h 17m,8h 17m,'-,'-,'-,8h 17m,8h 17m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,413813.62,10:45 AM,07:02 PM
+Wednesday,11/19/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:00 PM
+Wednesday,11/19/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,208492.21,10:19 AM,07:01 PM
+Wednesday,11/19/2025,Gaurav Mishra,20000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,19h 01m,19h 01m,'-,'-,'-,19h 01m,19h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:00 PM
+Wednesday,11/19/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:03 PM
+Wednesday,11/19/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 52m,7h 52m,'-,'-,'-,7h 52m,7h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:04 AM,06:57 PM
+Wednesday,11/19/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:00 PM
+Wednesday,11/19/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:00 PM
+Wednesday,11/19/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:09 AM,
+Wednesday,11/19/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:04 PM
+Wednesday,11/19/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,9h 00m,9h 00m,'-,'-,'-,9h 00m,9h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:02 AM,07:01 PM
+Wednesday,11/19/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 32m,7h 32m,'-,'-,'-,7h 32m,7h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,06:01 PM
+Wednesday,11/19/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,7h 23m,7h 23m,'-,'-,'-,7h 23m,7h 23m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:49 AM,07:12 PM
+Wednesday,11/19/2025,Rohini Nayar,RN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:04 PM
+Wednesday,11/19/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:01 PM
+Wednesday,11/19/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:01 PM
+Wednesday,11/19/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/19/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,7h 54m,7h 54m,'-,'-,'-,7h 54m,7h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:04 AM,06:58 PM
+Thursday,11/20/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,263213.36,10:17 AM,07:03 PM
+Thursday,11/20/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,12h 57m,12h 57m,'-,'-,'-,12h 57m,12h 57m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,647204.86,11:03 AM,
+Thursday,11/20/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:00 PM
+Thursday,11/20/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,204089.15,10:31 AM,07:01 PM
+Thursday,11/20/2025,Gaurav Mishra,20000,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,07:00 PM
+Thursday,11/20/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,13h 29m,13h 29m,'-,'-,'-,13h 29m,13h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,
+Thursday,11/20/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:03 PM
+Thursday,11/20/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 47m,7h 47m,'-,'-,'-,7h 47m,7h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:03 AM,06:50 PM
+Thursday,11/20/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,07:00 PM
+Thursday,11/20/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:01 PM
+Thursday,11/20/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:09 AM,07:00 PM
+Thursday,11/20/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:04 PM
+Thursday,11/20/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,07:01 PM
+Thursday,11/20/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 56m,7h 56m,'-,'-,'-,7h 56m,7h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,06:31 PM
+Thursday,11/20/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,10h 25m,10h 25m,'-,'-,'-,10h 25m,10h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,08:39 AM,07:04 PM
+Thursday,11/20/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:03 PM
+Thursday,11/20/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:03 PM
+Thursday,11/20/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:01 PM
+Thursday,11/20/2025,Vaishali Singh,VS-3,,,Default Work Schedule,13h 30m,13h 30m,'-,'-,'-,13h 30m,13h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,
+Thursday,11/20/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:01 PM
+Thursday,11/20/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/20/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,12h 56m,12h 56m,'-,'-,'-,12h 56m,12h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:03 AM,
+Friday,11/21/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 45m,8h 45m,'-,'-,'-,8h 45m,8h 45m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,262578.42,10:19 AM,07:04 PM
+Friday,11/21/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Friday,11/21/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,07:01 PM
+Friday,11/21/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,"Dinesh Singh ",24000,,,Default Work Schedule,13h 38m,13h 38m,'-,'-,'-,13h 38m,13h 38m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,327293.38,10:21 AM,
+Friday,11/21/2025,Gaurav Mishra,20000,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:00 PM
+Friday,11/21/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,19h 03m,19h 03m,'-,'-,'-,19h 03m,19h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:02 PM
+Friday,11/21/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:04 PM
+Friday,11/21/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 34m,7h 34m,'-,'-,'-,7h 34m,7h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:18 AM,06:52 PM
+Friday,11/21/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:10 AM,07:00 PM
+Friday,11/21/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:02 PM
+Friday,11/21/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 55m,8h 55m,'-,'-,'-,8h 55m,8h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:00 PM
+Friday,11/21/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:03 PM
+Friday,11/21/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,13h 49m,13h 49m,'-,'-,'-,13h 49m,13h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:11 AM,
+Friday,11/21/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,14h 46m,14h 46m,'-,'-,'-,14h 46m,14h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:13 AM,
+Friday,11/21/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:18 AM,07:04 PM
+Friday,11/21/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:04 PM
+Friday,11/21/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:01 PM
+Friday,11/21/2025,Vaishali Singh,VS-3,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 42m,8h 42m,'-,'-,'-,8h 42m,8h 42m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:19 AM,07:00 PM
+Friday,11/21/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/21/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 53m,8h 53m,'-,'-,'-,8h 53m,8h 53m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,266568.18,10:16 AM,07:09 PM
+Saturday,11/22/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Saturday,11/22/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:01 PM
+Saturday,11/22/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,"Dinesh Singh ",24000,,,Default Work Schedule,19h 00m,19h 00m,'-,'-,'-,19h 00m,19h 00m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,456164.05,10:23 AM,07:00 PM
+Saturday,11/22/2025,Gaurav Mishra,20000,,,Default Work Schedule,13h 17m,13h 17m,'-,'-,'-,13h 17m,13h 17m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:43 AM,
+Saturday,11/22/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,13h 25m,13h 25m,'-,'-,'-,13h 25m,13h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,
+Saturday,11/22/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 48m,8h 48m,'-,'-,'-,8h 48m,8h 48m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,07:08 PM
+Saturday,11/22/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 20m,7h 20m,'-,'-,'-,7h 20m,7h 20m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:31 AM,06:51 PM
+Saturday,11/22/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:00 PM
+Saturday,11/22/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:01 PM
+Saturday,11/22/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,9h 04m,9h 04m,'-,'-,'-,9h 04m,9h 04m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:56 AM,07:00 PM
+Saturday,11/22/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:09 PM
+Saturday,11/22/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,19h 02m,19h 02m,'-,'-,'-,19h 02m,19h 02m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:15 AM,07:02 PM
+Saturday,11/22/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 57m,7h 57m,'-,'-,'-,7h 57m,7h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,06:39 PM
+Saturday,11/22/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:19 AM,07:09 PM
+Saturday,11/22/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,07:09 PM
+Saturday,11/22/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:01 PM
+Saturday,11/22/2025,Vaishali Singh,VS-3,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:01 PM
+Saturday,11/22/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/22/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,'-,,
+Sunday,11/23/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Sunday,11/23/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Dinesh Singh ",24000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,'-,,
+Sunday,11/23/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Megha Jain,MJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Rohini Nayar,RN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Sharmila Patne,SP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Vaishali Singh,VS-3,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/23/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 53m,8h 53m,'-,'-,'-,8h 53m,8h 53m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,266528.01,10:18 AM,07:11 PM
+Monday,11/24/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Monday,11/24/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:04 PM
+Monday,11/24/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,2h 58m,2h 58m,'-,'-,'-,2h 58m,2h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,04:12 PM,07:10 PM
+Monday,11/24/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,209056.29,10:26 AM,07:09 PM
+Monday,11/24/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,10:42 AM
+Monday,11/24/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,19h 07m,19h 07m,'-,'-,'-,19h 07m,19h 07m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:07 PM
+Monday,11/24/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Megha Jain,MJ-1,,,Default Work Schedule,12h 49m,12h 49m,'-,'-,'-,12h 49m,12h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:10 AM,
+Monday,11/24/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:04 PM
+Monday,11/24/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:10 PM
+Monday,11/24/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:07 AM,07:00 PM
+Monday,11/24/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,7h 29m,7h 29m,'-,'-,'-,7h 29m,7h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,06:00 PM
+Monday,11/24/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 58m,8h 58m,'-,'-,'-,8h 58m,8h 58m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:11 PM
+Monday,11/24/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 49m,7h 49m,'-,'-,'-,7h 49m,7h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,06:31 PM
+Monday,11/24/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 59m,8h 59m,'-,'-,'-,8h 59m,8h 59m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:12 AM,07:11 PM
+Monday,11/24/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 40m,8h 40m,'-,'-,'-,8h 40m,8h 40m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:10 PM
+Monday,11/24/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Monday,11/24/2025,Vaishali Singh,VS-3,,,Default Work Schedule,19h 01m,19h 01m,'-,'-,'-,19h 01m,19h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:30 AM,07:03 PM
+Monday,11/24/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:05 PM
+Monday,11/24/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,2h 57m,2h 57m,'-,'-,'-,2h 57m,2h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,04:10 PM,07:07 PM
+Monday,11/24/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 49m,8h 49m,'-,'-,'-,8h 49m,8h 49m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,264492.59,10:19 AM,07:08 PM
+Tuesday,11/25/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Tuesday,11/25/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:03 PM
+Tuesday,11/25/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 46m,8h 46m,'-,'-,'-,8h 46m,8h 46m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,210526.53,10:21 AM,07:07 PM
+Tuesday,11/25/2025,Gaurav Mishra,20000,,,Default Work Schedule,19h 01m,19h 01m,'-,'-,'-,19h 01m,19h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,07:00 PM
+Tuesday,11/25/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,09:59 AM,06:44 PM
+Tuesday,11/25/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Megha Jain,MJ-1,,,Default Work Schedule,19h 03m,19h 03m,'-,'-,'-,19h 03m,19h 03m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:10 AM,07:03 PM
+Tuesday,11/25/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:10 PM
+Tuesday,11/25/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,9h 06m,9h 06m,'-,'-,'-,9h 06m,9h 06m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,07:10 PM
+Tuesday,11/25/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:08 PM
+Tuesday,11/25/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Tuesday,11/25/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 51m,8h 51m,'-,'-,'-,8h 51m,8h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,07:08 PM
+Tuesday,11/25/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:08 PM
+Tuesday,11/25/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:03 PM
+Tuesday,11/25/2025,Vaishali Singh,VS-3,,,Default Work Schedule,8h 39m,8h 39m,'-,'-,'-,8h 39m,8h 39m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:05 PM
+Tuesday,11/25/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:04 PM
+Tuesday,11/25/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:06 PM
+Tuesday,11/25/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 45m,8h 45m,'-,'-,'-,8h 45m,8h 45m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,262609.11,10:20 AM,07:05 PM
+Wednesday,11/26/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Wednesday,11/26/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:00 PM
+Wednesday,11/26/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:01 PM
+Wednesday,11/26/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,206104.70,10:25 AM,07:00 PM
+Wednesday,11/26/2025,Gaurav Mishra,20000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,13h 28m,13h 28m,'-,'-,'-,13h 28m,13h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,
+Wednesday,11/26/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 51m,7h 51m,'-,'-,'-,7h 51m,7h 51m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,06:32 PM
+Wednesday,11/26/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:26 AM,07:00 PM
+Wednesday,11/26/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:00 PM
+Wednesday,11/26/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 50m,8h 50m,'-,'-,'-,8h 50m,8h 50m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:10 AM,07:00 PM
+Wednesday,11/26/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:05 PM
+Wednesday,11/26/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 54m,7h 54m,'-,'-,'-,7h 54m,7h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:37 AM,06:32 PM
+Wednesday,11/26/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 45m,8h 45m,'-,'-,'-,8h 45m,8h 45m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:20 AM,07:05 PM
+Wednesday,11/26/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:04 PM
+Wednesday,11/26/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:01 PM
+Wednesday,11/26/2025,Vaishali Singh,VS-3,,,Default Work Schedule,8h 36m,8h 36m,'-,'-,'-,8h 36m,8h 36m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:25 AM,07:01 PM
+Wednesday,11/26/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Wednesday,11/26/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:00 PM
+Wednesday,11/26/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 43m,8h 43m,'-,'-,'-,8h 43m,8h 43m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,261294.34,10:21 AM,07:04 PM
+Thursday,11/27/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Thursday,11/27/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,07:01 PM
+Thursday,11/27/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,8h 33m,8h 33m,'-,'-,'-,8h 33m,8h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:01 PM
+Thursday,11/27/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 35m,8h 35m,'-,'-,'-,8h 35m,8h 35m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,205960.91,10:27 AM,07:02 PM
+Thursday,11/27/2025,Gaurav Mishra,20000,,,Default Work Schedule,13h 29m,13h 29m,'-,'-,'-,13h 29m,13h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,
+Thursday,11/27/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,19h 01m,19h 01m,'-,'-,'-,19h 01m,19h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:39 AM,07:01 PM
+Thursday,11/27/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 27m,8h 27m,'-,'-,'-,8h 27m,8h 27m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:03 PM
+Thursday,11/27/2025,Megha Jain,MJ-1,,,Default Work Schedule,8h 00m,8h 00m,'-,'-,'-,8h 00m,8h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:57 AM,06:57 PM
+Thursday,11/27/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:00 PM
+Thursday,11/27/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 19m,8h 19m,'-,'-,'-,8h 19m,8h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:42 AM,07:00 PM
+Thursday,11/27/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,8h 55m,8h 55m,'-,'-,'-,8h 55m,8h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:00 PM
+Thursday,11/27/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,07:04 PM
+Thursday,11/27/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 47m,7h 47m,'-,'-,'-,7h 47m,7h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:44 AM,06:30 PM
+Thursday,11/27/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Thursday,11/27/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 47m,8h 47m,'-,'-,'-,8h 47m,8h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,07:04 PM
+Thursday,11/27/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:04 PM
+Thursday,11/27/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 31m,8h 31m,'-,'-,'-,8h 31m,8h 31m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:01 PM
+Thursday,11/27/2025,Vaishali Singh,VS-3,,,Default Work Schedule,8h 01m,8h 01m,'-,'-,'-,8h 01m,8h 01m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:59 AM,07:00 PM
+Thursday,11/27/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 26m,8h 26m,'-,'-,'-,8h 26m,8h 26m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:01 PM
+Thursday,11/27/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:00 PM
+Thursday,11/27/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 38m,8h 38m,'-,'-,'-,8h 38m,8h 38m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,259226.36,10:25 AM,07:03 PM
+Friday,11/28/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Friday,11/28/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:01 PM
+Friday,11/28/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,7h 57m,7h 57m,'-,'-,'-,7h 57m,7h 57m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:45 AM,06:42 PM
+Friday,11/28/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 45m,8h 45m,'-,'-,'-,8h 45m,8h 45m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,209816.21,10:16 AM,07:01 PM
+Friday,11/28/2025,Gaurav Mishra,20000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:34 AM,10:34 AM
+Friday,11/28/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 24m,8h 24m,'-,'-,'-,8h 24m,8h 24m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:39 AM,07:03 PM
+Friday,11/28/2025,Megha Jain,MJ-1,,,Default Work Schedule,7h 19m,7h 19m,'-,'-,'-,7h 19m,7h 19m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,11:43 AM,07:02 PM
+Friday,11/28/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:00 PM
+Friday,11/28/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:00 PM
+Friday,11/28/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,4h 55m,4h 55m,'-,'-,'-,4h 55m,4h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:04 AM,02:59 PM
+Friday,11/28/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:29 AM,07:03 PM
+Friday,11/28/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 55m,8h 55m,'-,'-,'-,8h 55m,8h 55m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:06 AM,07:02 PM
+Friday,11/28/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,6h 54m,6h 54m,'-,'-,'-,6h 54m,6h 54m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:38 AM,05:31 PM
+Friday,11/28/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Friday,11/28/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 47m,8h 47m,'-,'-,'-,8h 47m,8h 47m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:16 AM,07:03 PM
+Friday,11/28/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 28m,8h 28m,'-,'-,'-,8h 28m,8h 28m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:35 AM,07:03 PM
+Friday,11/28/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:01 PM
+Friday,11/28/2025,Vaishali Singh,VS-3,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:01 PM
+Friday,11/28/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 25m,8h 25m,'-,'-,'-,8h 25m,8h 25m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:01 PM
+Friday,11/28/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:00 PM
+Friday,11/28/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,8h 52m,8h 52m,'-,'-,'-,8h 52m,8h 52m,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,265875.26,10:21 AM,07:13 PM
+Saturday,11/29/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Saturday,11/29/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:01 PM
+Saturday,11/29/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:28 AM,07:01 PM
+Saturday,11/29/2025,"Dinesh Singh ",24000,,,Default Work Schedule,8h 42m,8h 42m,'-,'-,'-,8h 42m,8h 42m,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,208973.25,10:25 AM,07:08 PM
+Saturday,11/29/2025,Gaurav Mishra,20000,,,Default Work Schedule,19h 08m,19h 08m,'-,'-,'-,19h 08m,19h 08m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:08 PM
+Saturday,11/29/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,6h 49m,6h 49m,'-,'-,'-,6h 49m,6h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:33 AM,05:22 PM
+Saturday,11/29/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Leena panchal,Lp-1,,,Default Work Schedule,8h 41m,8h 41m,'-,'-,'-,8h 41m,8h 41m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:30 AM,07:10 PM
+Saturday,11/29/2025,Megha Jain,MJ-1,,,Default Work Schedule,3h 33m,3h 33m,'-,'-,'-,3h 33m,3h 33m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,12:36 PM,04:09 PM
+Saturday,11/29/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,5h 08m,5h 08m,'-,'-,'-,5h 08m,5h 08m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:21 AM,03:30 PM
+Saturday,11/29/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,8h 34m,8h 34m,'-,'-,'-,8h 34m,8h 34m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:27 AM,07:01 PM
+Saturday,11/29/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,9h 05m,9h 05m,'-,'-,'-,9h 05m,9h 05m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:05 AM,07:09 PM
+Saturday,11/29/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,8h 53m,8h 53m,'-,'-,'-,8h 53m,8h 53m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,07:10 PM
+Saturday,11/29/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,7h 49m,7h 49m,'-,'-,'-,7h 49m,7h 49m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:41 AM,06:30 PM
+Saturday,11/29/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Saturday,11/29/2025,Rohini Nayar,RN-1,,,Default Work Schedule,8h 56m,8h 56m,'-,'-,'-,8h 56m,8h 56m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:17 AM,07:13 PM
+Saturday,11/29/2025,Sharmila Patne,SP-1,,,Default Work Schedule,8h 32m,8h 32m,'-,'-,'-,8h 32m,8h 32m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:36 AM,07:08 PM
+Saturday,11/29/2025,Shruti Hate,SH-1,,,Default Work Schedule,8h 30m,8h 30m,'-,'-,'-,8h 30m,8h 30m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:31 AM,07:01 PM
+Saturday,11/29/2025,Vaishali Singh,VS-3,,,Default Work Schedule,8h 44m,8h 44m,'-,'-,'-,8h 44m,8h 44m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:22 AM,07:06 PM
+Saturday,11/29/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,8h 29m,8h 29m,'-,'-,'-,8h 29m,8h 29m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:32 AM,07:01 PM
+Saturday,11/29/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,8h 37m,8h 37m,'-,'-,'-,8h 37m,8h 37m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,10:24 AM,07:01 PM
+Saturday,11/29/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Aishwarya Satardekar ","30,000",,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,30000.00,30000.00,30000.00,30000.00,30000.00,'-,,30000.00,'-,,
+Sunday,11/30/2025,Amar Singh - Johnlee,50000,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,50000.00,50000.00,50000.00,50000.00,50000.00,'-,,50000.00,1200000.00,,
+Sunday,11/30/2025,"Archana dorage ",Ad-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Chandan Rajbhar,CR-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Dinesh Singh ",24000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,24000.00,24000.00,24000.00,24000.00,24000.00,'-,,24000.00,'-,,
+Sunday,11/30/2025,Gaurav Mishra,20000,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Geeta Nayak,GDN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,HR YUGROW PHARMACY,HYP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Leena panchal,Lp-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Megha Jain,MJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Neeraj Gupta,NG-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Nilesh Gupta,NG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Pranay Satardekar,PS-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Priya Gupta ",PG-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Rahul  Yashvant Jadhav,RYJ-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Ranjana jadhav ",Rj-2,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Ravi Maurya - BD,RM-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Rohini Nayar,RN-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Sharmila Patne,SP-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Shruti Hate,SH-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Vaishali Singh,VS-3,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Vishakha khamkar ",Vk-1,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,"Vishal Singh ",VS-4,,,Default Work Schedule,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,
+Sunday,11/30/2025,Vishesh Sanghvi - Ambica,VS-1,,,Default Work Schedule,24h 00m,24h 00m,'-,'-,'-,24h 00m,24h 00m,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,'-,,'-,'-,,

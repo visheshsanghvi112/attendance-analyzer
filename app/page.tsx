@@ -7,7 +7,7 @@ import * as XLSX from 'xlsx';
 import Papa from 'papaparse';
 import {
   BarChart3, Upload, Download, Search, FileSpreadsheet, Users, CheckCircle2,
-  XCircle, Clock, Percent, Eye, X, Calendar, MapPin, AlertTriangle, ChevronDown, LogOut, Info
+  XCircle, Clock, Percent, Eye, X, Calendar, MapPin, AlertTriangle, ChevronDown, LogOut, Info, Building2
 } from 'lucide-react';
 
 // ========================================
@@ -477,6 +477,7 @@ export default function Home() {
   const [detectedFormat, setDetectedFormat] = useState('');
   const [selectedEmployee, setSelectedEmployee] = useState<EmployeeStats | null>(null);
   const [monthPeriod, setMonthPeriod] = useState('');
+  const [company, setCompany] = useState<string>('Ambica Pharma');
   
   // Settings - Core business rules
   const [lateMarkTime, setLateMarkTime] = useState('11:00');      // Late mark if arrive after 11:00 AM
@@ -1243,6 +1244,20 @@ export default function Home() {
           transition={{ delay: 0.2 }}
         >
           <div className="setting-group">
+            <label className="setting-label"><Building2 size={14} /> Company</label>
+            <select
+              className="setting-input"
+              value={company}
+              onChange={e => setCompany(e.target.value)}
+            >
+              <option value="Ambica Pharma">Ambica Pharma</option>
+              <option value="Johnlee">Johnlee</option>
+              <option value="Yugrow Pharmacy">Yugrow Pharmacy</option>
+              <option value="Other / Mixed">Other / Mixed</option>
+            </select>
+          </div>
+
+          <div className="setting-group">
             <label className="setting-label"><AlertTriangle size={14} /> Late Mark After</label>
             <input type="time" className="setting-input" value={lateMarkTime} onChange={e => setLateMarkTime(e.target.value)} onBlur={handleSettings} />
           </div>
@@ -1291,7 +1306,9 @@ export default function Home() {
             <div className="results-header">
               <div className="results-title-group">
                 <h2>Analysis Results</h2>
-                <p className="results-meta">{results.length} employees · Click for details</p>
+                <p className="results-meta">
+                  {company} · {monthPeriod || 'Month not detected'} · {results.length} employees
+                </p>
               </div>
               <button className="export-btn" onClick={exportSummary}><Download size={16} /> Export</button>
             </div>
