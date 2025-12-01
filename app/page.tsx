@@ -271,28 +271,25 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
             </div>
           </div>
           <div className="breakdown-formula">
-            <span className="formula-title">📝 How Total is Calculated:</span>
-            <span className="formula-text">
-              <strong>Present Days ({employee.presentDays})</strong> = Full Days + Half Days
-              {employee.lateMarks > 0 && lateDeductions > 0 && (
-                <>
-                  <br/><br/>
-                  <strong>⚠️ Late Penalty Applied:</strong>
-                  <br/>• Late Marks: {employee.lateMarks}
-                  <br/>• Rule: Every {cycleLength}th late = 1 half-day cut
-                  <br/>• Formula: floor({employee.lateMarks} ÷ {cycleLength}) = <strong>{lateDeductions} half-day(s) deducted</strong>
-                  <br/>• Result: {lateDeductions} full day(s) converted to half day(s)
-                </>
-              )}
-              {employee.lateMarks > 0 && lateDeductions === 0 && (
-                <>
-                  <br/><br/>
-                  <strong>ℹ️ Late Status:</strong>
-                  <br/>• Late Marks: {employee.lateMarks} (within grace period of {graceDays})
-                  <br/>• No half-day deduction yet
-                </>
-              )}
-            </span>
+            <div className="formula-row">
+              <span className="formula-label">Total Present:</span>
+              <span className="formula-calc">{employee.fullDays} full + {employee.halfDays} half = <strong>{employee.presentDays} days</strong></span>
+            </div>
+            {employee.lateMarks > 0 && (
+              <div className="formula-row late-row">
+                <span className="formula-label">Late Penalty:</span>
+                <span className="formula-calc">
+                  {employee.lateMarks} late ÷ {cycleLength} = <strong>{lateDeductions} cut{lateDeductions !== 1 ? 's' : ''}</strong>
+                  {lateDeductions === 0 && <span className="grace-note">(grace period)</span>}
+                </span>
+              </div>
+            )}
+            <div className="formula-row total-row">
+              <span className="formula-label">Final:</span>
+              <span className="formula-calc">
+                <strong>{employee.presentDays}/{employee.workingDays}</strong> days ({Math.round((employee.presentDays / Math.max(employee.workingDays, 1)) * 100)}%)
+              </span>
+            </div>
           </div>
         </div>
 

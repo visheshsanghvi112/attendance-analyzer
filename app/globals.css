@@ -1523,24 +1523,57 @@ body {
 
 .breakdown-formula {
   background: var(--bg-card);
-  padding: 12px 16px;
+  padding: 16px;
   border-radius: var(--radius-md);
-  border: 1px dashed var(--border-default);
+  border: 1px solid var(--border-subtle);
 }
 
-.formula-title {
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: var(--text-secondary);
-  display: block;
-  margin-bottom: 6px;
+.formula-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px dashed var(--border-subtle);
 }
 
-.formula-text {
+.formula-row:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.formula-row.total-row {
+  margin-top: 8px;
+  padding-top: 12px;
+  border-top: 2px solid var(--border-default);
+  border-bottom: none;
+}
+
+.formula-row.late-row .formula-calc {
+  color: var(--warning);
+}
+
+.formula-label {
   font-size: 0.8rem;
   color: var(--text-tertiary);
-  font-family: monospace;
-  line-height: 1.6;
+  font-weight: 500;
+}
+
+.formula-calc {
+  font-size: 0.9rem;
+  color: var(--text-primary);
+  font-family: 'SF Mono', 'Monaco', 'Consolas', monospace;
+}
+
+.formula-calc strong {
+  color: var(--accent-primary);
+  font-weight: 700;
+}
+
+.grace-note {
+  font-size: 0.75rem;
+  color: var(--success);
+  margin-left: 8px;
+  font-style: italic;
 }
 
 /* Stat Card Colors */
