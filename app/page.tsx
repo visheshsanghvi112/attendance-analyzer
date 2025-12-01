@@ -515,6 +515,31 @@ export default function Home() {
 
   const removeToast = useCallback((id: string) => setToasts(prev => prev.filter(t => t.id !== id)), []);
 
+  // Load static company CSV from server (so user doesn't need to upload manually)
+  const loadCompanyData = useCallback(
+    async (companyName: string) => {
+      if (!companyName || companyName === 'Other / Mixed') return;
+      try {
+        const res = await fetch(`/api/company-data?company=${encodeURIComponent(companyName)}`);
+        if (!res.ok) {
+          const msg = await res.text();
+          addToast('error', 'Failed to load company data', msg || `Status ${res.status}`);
+          return;
+        }
+        const blob = await res.blob();
+        // Name is for display only – extension .csv is important for parser
+        const file = new File([blob], `${companyName.replace(/\s+/g, '_')}_timesheet.csv`, {
+          type: 'text/csv',
+        });
+        setSummaryFile(file);
+      } catch (error) {
+        console.error('Error loading company data', error);
+        addToast('error', 'Failed to load company data', 'Check server logs for details');
+      }
+    },
+    [addToast]
+  );
+
   // Check if a date is a Sunday (calculate from actual date)
   const isSundayDate = useCallback((dateStr: string): boolean => {
     // Try parsing various date formats
@@ -1044,6 +1069,13 @@ export default function Home() {
   useEffect(() => {
     if (summaryFile) processFiles();
   }, [summaryFile, lateMarkTime, minFullDayHours, lateMarksPerHalfDay]);
+
+  // Auto-load static company data when company is changed
+  useEffect(() => {
+    if (!summaryFile && company && company !== 'Other / Mixed') {
+      loadCompanyData(company);
+    }
+  }, [company, summaryFile, loadCompanyData]);
 
   // File handlers
   const handleDrop = useCallback((e: React.DragEvent) => {
