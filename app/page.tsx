@@ -455,6 +455,44 @@ export default function Home() {
 
   const removeToast = useCallback((id: string) => setToasts(prev => prev.filter(t => t.id !== id)), []);
 
+  // Check if a date is a Sunday (calculate from actual date)
+  const isSundayDate = useCallback((dateStr: string): boolean => {
+    // Try parsing various date formats
+    // Format: "November 01" or "Nov 01" or "11/1/2025" or "2025-11-01"
+    let date: Date | null = null;
+    
+    // Try "Month Day" format (e.g., "November 01", "Nov 15")
+    const monthDayMatch = dateStr.match(/(\w+)\s+(\d+)/);
+    if (monthDayMatch) {
+      const monthNames: Record<string, number> = {
+        'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2,
+        'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6,
+        'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9,
+        'november': 10, 'nov': 10, 'december': 11, 'dec': 11
+      };
+      const month = monthNames[monthDayMatch[1].toLowerCase()];
+      const day = parseInt(monthDayMatch[2]);
+      if (month !== undefined && day) {
+        date = new Date(2025, month, day); // Use 2025 as default year
+      }
+    }
+    
+    // Try MM/DD/YYYY format
+    if (!date) {
+      const slashMatch = dateStr.match(/(\d+)\/(\d+)\/(\d+)/);
+      if (slashMatch) {
+        date = new Date(parseInt(slashMatch[3]), parseInt(slashMatch[1]) - 1, parseInt(slashMatch[2]));
+      }
+    }
+    
+    // Try direct parsing
+    if (!date || isNaN(date.getTime())) {
+      date = new Date(dateStr);
+    }
+    
+    return date && !isNaN(date.getTime()) && date.getDay() === 0; // 0 = Sunday
+  }, []);
+
   // Check if a date is a holiday
   const isHoliday = useCallback((dateStr: string): boolean => {
     if (!holidays.trim()) return false;
@@ -533,7 +571,7 @@ export default function Home() {
       for (const dayEntry of sortedDates) {
         const date = dayEntry[0];
         const dayData = dayEntry[1];
-        const isSunday = dayData.day === 'Sunday';
+        const isSunday = dayData.day === 'Sunday' || isSundayDate(date);
         const isHolidayDay = isHoliday(date);
         const isRestDay = isSunday || isHolidayDay;
         const isPresent = dayData.hours > 0 || dayData.firstIn !== '';
@@ -585,7 +623,7 @@ export default function Home() {
     }
     
     return stats;
-  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay, isHoliday]);
+  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay, isHoliday, isSundayDate]);
 
   // Parse Monthly Timesheet
   const parseMonthly = useCallback((rawData: string[][]) => {
@@ -652,7 +690,7 @@ export default function Home() {
         for (const col of dateCols) {
           const hStr = row[col.idx]?.toString() || '';
           const day = col.day?.toLowerCase() || '';
-          const isSunday = day === 'sun' || day === 'sunday';
+          const isSunday = day === 'sun' || day === 'sunday' || isSundayDate(col.date);
           const isHolidayDay = isHoliday(col.date);
           const isRest = isSunday || isHolidayDay || hStr === '';
           const hrs = parseDuration(hStr);
@@ -685,7 +723,7 @@ export default function Home() {
     }
     
     return stats;
-  }, [minFullDayHours, addToast, isHoliday]);
+  }, [minFullDayHours, addToast, isHoliday, isSundayDate]);
 
   // Parse Monthly Daily format (Day, Date, Full Name, ... First In, Last Out)
   const parseMonthlyDaily = useCallback((rawData: string[][]) => {
@@ -770,7 +808,7 @@ export default function Home() {
       
       for (const dayEntry of sortedDays) {
         const dayData = dayEntry[1];
-        const isSunday = dayData.day?.toLowerCase() === 'sunday';
+        const isSunday = dayData.day?.toLowerCase() === 'sunday' || isSundayDate(dayData.date);
         const isHolidayDay = isHoliday(dayData.date);
         const isRest: boolean = isSunday || isHolidayDay;
         const isAbsent: boolean = !isRest && dayData.hours === 0 && !dayData.firstIn;
@@ -808,7 +846,7 @@ export default function Home() {
     }
     
     return stats;
-  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay, addToast, isHoliday]);
+  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay, addToast, isHoliday, isSundayDate]);
 
   // Read file to raw data
   const readFileToData = useCallback(async (file: File): Promise<string[][]> => {
