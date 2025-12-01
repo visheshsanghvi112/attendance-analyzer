@@ -1318,35 +1318,39 @@ export default function Home() {
                           return null;
                         };
                         
-                        // Get first and last working dates
+                        // Get first working date (when employee started)
                         const workingDates = emp.dailyRecords.filter(d => d.isPresent).map(d => parseDate(d.date)).filter(d => d) as Date[];
                         const firstWorkDate = workingDates.length > 0 ? new Date(Math.min(...workingDates.map(d => d.getTime()))) : null;
-                        const lastWorkDate = workingDates.length > 0 ? new Date(Math.max(...workingDates.map(d => d.getTime()))) : null;
                         
-                        // Count Sundays ONLY between first and last working day
+                        // Get end of month (count Sundays till end of month, not last work day)
+                        // This handles: employee works Nov 1-29, should still get Nov 30 Sunday
+                        const endOfMonth = firstWorkDate ? new Date(firstWorkDate.getFullYear(), firstWorkDate.getMonth() + 1, 0) : null;
+                        
+                        // Count Sundays from FIRST work day to END OF MONTH
+                        // This ensures: sandwich leaves get Sundays, and month-end Sundays are counted
                         let sundayCount = 0;
-                        if (firstWorkDate && lastWorkDate) {
+                        if (firstWorkDate && endOfMonth) {
                           const current = new Date(firstWorkDate);
-                          while (current <= lastWorkDate) {
+                          while (current <= endOfMonth) {
                             if (current.getDay() === 0) sundayCount++;
                             current.setDate(current.getDate() + 1);
                           }
                         }
                         
-                        // Count holidays that fall within working period
+                        // Count holidays from first work day to end of month
                         let holidayCount = 0;
-                        if (firstWorkDate && lastWorkDate && holidays.trim()) {
+                        if (firstWorkDate && endOfMonth && holidays.trim()) {
                           const holidayList = holidays.split(',').map(h => h.trim());
                           for (const h of holidayList) {
                             const hDate = parseDate(h);
-                            if (hDate && hDate >= firstWorkDate && hDate <= lastWorkDate) {
+                            if (hDate && hDate >= firstWorkDate && hDate <= endOfMonth) {
                               holidayCount++;
                             }
                           }
                         }
                         
                         // Get month days
-                        const monthDays = firstWorkDate ? new Date(firstWorkDate.getFullYear(), firstWorkDate.getMonth() + 1, 0).getDate() : 30;
+                        const monthDays = endOfMonth ? endOfMonth.getDate() : 30;
                         
                         // Total paid days = Full + (Half * 0.5) + Sundays (in working period) + Holidays (in working period)
                         const totalPaid = emp.fullDays + emp.halfDays * 0.5 + sundayCount + holidayCount;
