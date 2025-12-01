@@ -1288,58 +1288,68 @@ export default function Home() {
                     </thead>
                     <tbody>
                       {displayed.map((emp, i) => {
-                        // Get month info from first record date
-                        const getMonthInfo = () => {
-                          if (emp.dailyRecords.length === 0) return { days: 30, sundays: 4, year: 2025, month: 10 };
-                          const firstDate = emp.dailyRecords[0]?.date;
-                          if (!firstDate) return { days: 30, sundays: 4, year: 2025, month: 10 };
-                          
+                        // Parse a date string to Date object
+                        const parseDate = (dateStr: string): Date | null => {
+                          if (!dateStr) return null;
                           let year = new Date().getFullYear();
-                          let month = 10; // November default
-                          
-                          // Parse month period for year
                           if (monthPeriod) {
-                            const yearMatch = monthPeriod.match(/(\d{4})/);
-                            if (yearMatch) year = parseInt(yearMatch[1]);
+                            const ym = monthPeriod.match(/(\d{4})/);
+                            if (ym) year = parseInt(ym[1]);
                           }
                           
-                          // Parse date to get month
                           const monthNames: Record<string, number> = {
                             'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2,
                             'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6,
                             'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9,
                             'november': 10, 'nov': 10, 'december': 11, 'dec': 11
                           };
-                          const match = firstDate.match(/(\w+)\s+(\d+)/);
+                          
+                          const slashMatch = dateStr.match(/(\d+)\/(\d+)\/(\d+)/);
+                          if (slashMatch) {
+                            return new Date(parseInt(slashMatch[3]), parseInt(slashMatch[1]) - 1, parseInt(slashMatch[2]));
+                          }
+                          
+                          const match = dateStr.match(/(\w+)\s+(\d+)/);
                           if (match) {
                             const m = monthNames[match[1].toLowerCase()];
-                            if (m !== undefined) month = m;
-                          }
-                          const slashMatch = firstDate.match(/(\d+)\/(\d+)\/(\d+)/);
-                          if (slashMatch) {
-                            month = parseInt(slashMatch[1]) - 1;
-                            year = parseInt(slashMatch[3]);
+                            if (m !== undefined) return new Date(year, m, parseInt(match[2]));
                           }
                           
-                          // Calculate days in month
-                          const days = new Date(year, month + 1, 0).getDate();
-                          
-                          // Count Sundays in the month
-                          let sundays = 0;
-                          for (let d = 1; d <= days; d++) {
-                            if (new Date(year, month, d).getDay() === 0) sundays++;
-                          }
-                          
-                          return { days, sundays, year, month };
+                          return null;
                         };
-                        const monthInfo = getMonthInfo();
-                        const monthDays = monthInfo.days;
                         
-                        // Count holidays
-                        const holidayCount = holidays.split(',').filter(h => h.trim()).length;
+                        // Get first and last working dates
+                        const workingDates = emp.dailyRecords.filter(d => d.isPresent).map(d => parseDate(d.date)).filter(d => d) as Date[];
+                        const firstWorkDate = workingDates.length > 0 ? new Date(Math.min(...workingDates.map(d => d.getTime()))) : null;
+                        const lastWorkDate = workingDates.length > 0 ? new Date(Math.max(...workingDates.map(d => d.getTime()))) : null;
                         
-                        // Total paid days = Full + (Half * 0.5) + Sundays + Holidays
-                        const totalPaid = emp.fullDays + emp.halfDays * 0.5 + monthInfo.sundays + holidayCount;
+                        // Count Sundays ONLY between first and last working day
+                        let sundayCount = 0;
+                        if (firstWorkDate && lastWorkDate) {
+                          const current = new Date(firstWorkDate);
+                          while (current <= lastWorkDate) {
+                            if (current.getDay() === 0) sundayCount++;
+                            current.setDate(current.getDate() + 1);
+                          }
+                        }
+                        
+                        // Count holidays that fall within working period
+                        let holidayCount = 0;
+                        if (firstWorkDate && lastWorkDate && holidays.trim()) {
+                          const holidayList = holidays.split(',').map(h => h.trim());
+                          for (const h of holidayList) {
+                            const hDate = parseDate(h);
+                            if (hDate && hDate >= firstWorkDate && hDate <= lastWorkDate) {
+                              holidayCount++;
+                            }
+                          }
+                        }
+                        
+                        // Get month days
+                        const monthDays = firstWorkDate ? new Date(firstWorkDate.getFullYear(), firstWorkDate.getMonth() + 1, 0).getDate() : 30;
+                        
+                        // Total paid days = Full + (Half * 0.5) + Sundays (in working period) + Holidays (in working period)
+                        const totalPaid = emp.fullDays + emp.halfDays * 0.5 + sundayCount + holidayCount;
                         return (
                         <motion.tr 
                           key={i} 
