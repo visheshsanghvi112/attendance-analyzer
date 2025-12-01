@@ -2,6 +2,9 @@ import { NextResponse } from 'next/server';
 import path from 'path';
 import fs from 'fs/promises';
 
+// Ensure this route runs in the Node.js runtime (fs is not available in edge)
+export const runtime = 'nodejs';
+
 // Map company names from the UI to their preferred Monthly Raw Timesheet CSV
 const COMPANY_FILES: Record<string, string> = {
   'Ambica Pharma': 'Monthly Raw Timesheet - AMBICA PHARMA - 2025.11.01 to 2025.11.30.csv',

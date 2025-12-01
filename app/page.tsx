@@ -7,7 +7,7 @@ import * as XLSX from 'xlsx';
 import Papa from 'papaparse';
 import {
   BarChart3, Upload, Download, Search, FileSpreadsheet, Users, CheckCircle2,
-  XCircle, Clock, Percent, Eye, X, Calendar, MapPin, AlertTriangle, ChevronDown, LogOut, Info, Building2
+  XCircle, Clock, Percent, Eye, X, Calendar, MapPin, AlertTriangle, ChevronDown, LogOut, Info
 } from 'lucide-react';
 
 // ========================================
@@ -1276,7 +1276,7 @@ export default function Home() {
           transition={{ delay: 0.2 }}
         >
           <div className="setting-group">
-            <label className="setting-label"><Building2 size={14} /> Company</label>
+            <label className="setting-label"><BarChart3 size={14} /> Company</label>
             <select
               className="setting-input"
               value={company}
