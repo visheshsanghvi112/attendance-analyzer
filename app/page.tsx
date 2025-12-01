@@ -458,40 +458,59 @@ export default function Home() {
   // Check if a date is a Sunday (calculate from actual date)
   const isSundayDate = useCallback((dateStr: string): boolean => {
     // Try parsing various date formats
-    // Format: "November 01" or "Nov 01" or "11/1/2025" or "2025-11-01"
     let date: Date | null = null;
+    const currentYear = new Date().getFullYear();
     
-    // Try "Month Day" format (e.g., "November 01", "Nov 15")
-    const monthDayMatch = dateStr.match(/(\w+)\s+(\d+)/);
-    if (monthDayMatch) {
-      const monthNames: Record<string, number> = {
-        'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2,
-        'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6,
-        'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9,
-        'november': 10, 'nov': 10, 'december': 11, 'dec': 11
-      };
-      const month = monthNames[monthDayMatch[1].toLowerCase()];
-      const day = parseInt(monthDayMatch[2]);
-      if (month !== undefined && day) {
-        date = new Date(2025, month, day); // Use 2025 as default year
-      }
+    // Extract year from monthPeriod if available (e.g., "01 November 2025 - 30 November 2025")
+    let yearFromPeriod = currentYear;
+    if (monthPeriod) {
+      const yearMatch = monthPeriod.match(/(\d{4})/);
+      if (yearMatch) yearFromPeriod = parseInt(yearMatch[1]);
     }
     
-    // Try MM/DD/YYYY format
+    // Try MM/DD/YYYY format first (most specific)
+    const slashMatch = dateStr.match(/(\d+)\/(\d+)\/(\d+)/);
+    if (slashMatch) {
+      const year = parseInt(slashMatch[3]);
+      const month = parseInt(slashMatch[1]) - 1;
+      const day = parseInt(slashMatch[2]);
+      date = new Date(year < 100 ? 2000 + year : year, month, day);
+    }
+    
+    // Try YYYY-MM-DD format
     if (!date) {
-      const slashMatch = dateStr.match(/(\d+)\/(\d+)\/(\d+)/);
-      if (slashMatch) {
-        date = new Date(parseInt(slashMatch[3]), parseInt(slashMatch[1]) - 1, parseInt(slashMatch[2]));
+      const isoMatch = dateStr.match(/(\d{4})-(\d+)-(\d+)/);
+      if (isoMatch) {
+        date = new Date(parseInt(isoMatch[1]), parseInt(isoMatch[2]) - 1, parseInt(isoMatch[3]));
       }
     }
     
-    // Try direct parsing
+    // Try "Month Day" or "Month Day, Year" format (e.g., "November 01", "Nov 15, 2025")
+    if (!date) {
+      const monthDayMatch = dateStr.match(/(\w+)\s+(\d+)(?:,?\s*(\d{4}))?/);
+      if (monthDayMatch) {
+        const monthNames: Record<string, number> = {
+          'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2,
+          'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6,
+          'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9,
+          'november': 10, 'nov': 10, 'december': 11, 'dec': 11
+        };
+        const month = monthNames[monthDayMatch[1].toLowerCase()];
+        const day = parseInt(monthDayMatch[2]);
+        const year = monthDayMatch[3] ? parseInt(monthDayMatch[3]) : yearFromPeriod;
+        if (month !== undefined && day) {
+          date = new Date(year, month, day);
+        }
+      }
+    }
+    
+    // Try direct parsing as fallback
     if (!date || isNaN(date.getTime())) {
       date = new Date(dateStr);
     }
     
     return date && !isNaN(date.getTime()) && date.getDay() === 0; // 0 = Sunday
-  }, []);
+  }, [monthPeriod]);
 
   // Check if a date is a holiday
   const isHoliday = useCallback((dateStr: string): boolean => {
