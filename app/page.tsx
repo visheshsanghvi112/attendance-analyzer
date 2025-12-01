@@ -180,6 +180,26 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
   const earlyLeaveRecords = employee.dailyRecords.filter(d => d.isEarlyLeave && !d.isHalfDay);
   const halfRecords = employee.dailyRecords.filter(d => d.isHalfDay);
   const absentRecords = employee.dailyRecords.filter(d => d.isAbsent);
+  
+  // Calculate attendance percentage
+  const attendancePercent = employee.workingDays > 0 
+    ? Math.round((employee.presentDays / employee.workingDays) * 100) 
+    : 0;
+  
+  // Get conclusion
+  const getConc = () => {
+    const lateRate = employee.presentDays > 0 ? (employee.lateMarks / employee.presentDays) * 100 : 0;
+    const halfDayRate = employee.presentDays > 0 ? (employee.halfDays / employee.presentDays) * 100 : 0;
+    const score = (attendancePercent * 0.6) + ((100 - lateRate) * 0.25) + ((100 - halfDayRate) * 0.15);
+    
+    if (employee.presentDays === 0) return { text: 'No Data', color: 'neutral' };
+    if (score >= 90 && employee.lateMarks <= 2) return { text: 'Excellent', color: 'success' };
+    if (score >= 75) return { text: 'Good', color: 'success' };
+    if (score >= 60) return { text: 'Average', color: 'warning' };
+    if (score >= 40) return { text: 'Needs Improvement', color: 'warning' };
+    return { text: 'Poor', color: 'danger' };
+  };
+  const conclusion = getConc();
 
   return (
     <motion.div 
@@ -202,7 +222,7 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
             <div className="modal-avatar">{getInitials(employee.name)}</div>
             <div>
               <h2 className="modal-title">{employee.name}</h2>
-              <p className="modal-subtitle">{employee.memberCode} · {employee.totalFromFile || formatHoursToHM(employee.totalHours)} total</p>
+              <p className="modal-subtitle">{employee.memberCode} · <span className={`conclusion-badge ${conclusion.color}`}>{conclusion.text}</span></p>
             </div>
           </div>
           <div className="modal-actions">
@@ -213,11 +233,47 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
           </div>
         </div>
 
-        <div className="modal-stats">
-          <div className="modal-stat success"><span className="modal-stat-value">{employee.presentDays}</span><span className="modal-stat-label">Present</span></div>
-          <div className="modal-stat warning"><span className="modal-stat-value">{employee.lateMarks}</span><span className="modal-stat-label">Late</span></div>
-          <div className="modal-stat info"><span className="modal-stat-value">{employee.halfDays}</span><span className="modal-stat-label">Half Days</span></div>
-          <div className="modal-stat danger"><span className="modal-stat-value">{employee.absentDays}</span><span className="modal-stat-label">Absent</span></div>
+        {/* Summary Breakdown */}
+        <div className="modal-breakdown">
+          <div className="breakdown-header">
+            <span className="breakdown-title">📊 Attendance Summary</span>
+            <span className={`breakdown-percent ${attendancePercent >= 80 ? 'good' : attendancePercent >= 60 ? 'avg' : 'poor'}`}>
+              {attendancePercent}% Attendance
+            </span>
+          </div>
+          <div className="breakdown-grid">
+            <div className="breakdown-item">
+              <span className="breakdown-label">Working Days</span>
+              <span className="breakdown-value">{employee.workingDays}</span>
+            </div>
+            <div className="breakdown-item present">
+              <span className="breakdown-label">Days Present</span>
+              <span className="breakdown-value">{employee.presentDays}</span>
+            </div>
+            <div className="breakdown-item full">
+              <span className="breakdown-label">Full Days</span>
+              <span className="breakdown-value">{employee.fullDays}</span>
+            </div>
+            <div className="breakdown-item half">
+              <span className="breakdown-label">Half Days</span>
+              <span className="breakdown-value">{employee.halfDays}</span>
+            </div>
+            <div className="breakdown-item late">
+              <span className="breakdown-label">Late Marks</span>
+              <span className="breakdown-value">{employee.lateMarks}</span>
+            </div>
+            <div className="breakdown-item absent">
+              <span className="breakdown-label">Absent Days</span>
+              <span className="breakdown-value">{employee.absentDays}</span>
+            </div>
+          </div>
+          <div className="breakdown-formula">
+            <span className="formula-title">Calculation:</span>
+            <span className="formula-text">
+              Present ({employee.presentDays}) = Full Days ({employee.fullDays}) + Half Days ({employee.halfDays})
+              {employee.lateMarks > 0 && <><br/>Late marks: {employee.lateMarks} → {Math.floor(employee.lateMarks / 4)} half-day deduction(s)</>}
+            </span>
+          </div>
         </div>
 
         <div className="modal-body">
@@ -872,15 +928,16 @@ export default function Home() {
     });
   }, [results, searchQuery, sortConfig]);
 
-  const stats = useMemo(() => ({
-    employees: results.length,
-    fullDays: results.reduce((s, r) => s + r.fullDays, 0),
-    halfDays: results.reduce((s, r) => s + r.halfDays, 0),
-    lateMarks: results.reduce((s, r) => s + r.lateMarks, 0),
-    absent: results.reduce((s, r) => s + r.absentDays, 0),
-    hours: results.reduce((s, r) => s + r.totalHours, 0),
-    avgAtt: results.length > 0 ? (results.reduce((s, r) => s + (r.presentDays / Math.max(r.workingDays, 1)), 0) / results.length * 100).toFixed(0) : '0'
-  }), [results]);
+  const stats = useMemo(() => {
+    if (results.length === 0) return { employees: 0, avgPresent: '0', avgFull: '0', avgHalf: '0', avgLate: '0', avgAbsent: '0', avgAtt: '0' };
+    const avgPresent = (results.reduce((s, r) => s + r.presentDays, 0) / results.length).toFixed(1);
+    const avgFull = (results.reduce((s, r) => s + r.fullDays, 0) / results.length).toFixed(1);
+    const avgHalf = (results.reduce((s, r) => s + r.halfDays, 0) / results.length).toFixed(1);
+    const avgLate = (results.reduce((s, r) => s + r.lateMarks, 0) / results.length).toFixed(1);
+    const avgAbsent = (results.reduce((s, r) => s + r.absentDays, 0) / results.length).toFixed(1);
+    const avgAtt = (results.reduce((s, r) => s + (r.presentDays / Math.max(r.workingDays, 1)), 0) / results.length * 100).toFixed(0);
+    return { employees: results.length, avgPresent, avgFull, avgHalf, avgLate, avgAbsent, avgAtt };
+  }, [results]);
 
   // Export
   const exportSummary = useCallback(() => {
@@ -910,6 +967,23 @@ export default function Home() {
   }, [addToast]);
 
   const earlyLeaveDisplay = minutesToTime(parseTimeToMinutes(earlyLeaveTime));
+
+  // Calculate conclusion for each employee
+  const getConclusion = useCallback((emp: EmployeeStats) => {
+    const attendanceRate = emp.workingDays > 0 ? (emp.presentDays / emp.workingDays) * 100 : 0;
+    const lateRate = emp.presentDays > 0 ? (emp.lateMarks / emp.presentDays) * 100 : 0;
+    const halfDayRate = emp.presentDays > 0 ? (emp.halfDays / emp.presentDays) * 100 : 0;
+    
+    // Scoring: attendance 60%, late 25%, half days 15%
+    const score = (attendanceRate * 0.6) + ((100 - lateRate) * 0.25) + ((100 - halfDayRate) * 0.15);
+    
+    if (emp.presentDays === 0) return { text: 'No Data', color: 'neutral', icon: '—' };
+    if (score >= 90 && emp.lateMarks <= 2) return { text: 'Excellent', color: 'success', icon: '★' };
+    if (score >= 75) return { text: 'Good', color: 'success', icon: '✓' };
+    if (score >= 60) return { text: 'Average', color: 'warning', icon: '○' };
+    if (score >= 40) return { text: 'Needs Work', color: 'warning', icon: '!' };
+    return { text: 'Poor', color: 'danger', icon: '✗' };
+  }, []);
 
   return (
     <>
@@ -1063,11 +1137,11 @@ export default function Home() {
             <div className="stats-grid">
               {[
                 { key: 'employees', icon: Users, value: stats.employees, label: 'Employees', color: 'info' },
-                { key: 'full', icon: CheckCircle2, value: stats.fullDays, label: 'Full Days', color: 'success' },
-                { key: 'half', icon: Clock, value: stats.halfDays, label: 'Half Days', color: 'info' },
-                { key: 'late', icon: AlertTriangle, value: stats.lateMarks, label: 'Late Marks', color: 'warning' },
-                { key: 'absent', icon: XCircle, value: stats.absent, label: 'Absent', color: 'danger' },
-                { key: 'att', icon: Percent, value: `${stats.avgAtt}%`, label: 'Attendance', color: 'success' },
+                { key: 'present', icon: CheckCircle2, value: stats.avgPresent, label: 'Avg Present/Emp', color: 'success' },
+                { key: 'full', icon: CheckCircle2, value: stats.avgFull, label: 'Avg Full Days', color: 'success' },
+                { key: 'late', icon: AlertTriangle, value: stats.avgLate, label: 'Avg Late/Emp', color: 'warning' },
+                { key: 'absent', icon: XCircle, value: stats.avgAbsent, label: 'Avg Absent/Emp', color: 'danger' },
+                { key: 'att', icon: Percent, value: `${stats.avgAtt}%`, label: 'Avg Attendance', color: 'success' },
               ].map((s, i) => (
                 <motion.div 
                   key={s.key}
@@ -1101,17 +1175,19 @@ export default function Home() {
                       <tr>
                         <th onClick={() => handleSort('name')}>Employee {sortConfig.key === 'name' && <ChevronDown size={14} className={`sort-icon ${sortConfig.direction}`} />}</th>
                         <th onClick={() => handleSort('memberCode')}>Code</th>
-                        <th onClick={() => handleSort('presentDays')}>Present</th>
+                        <th onClick={() => handleSort('presentDays')}>Total Days</th>
                         <th onClick={() => handleSort('fullDays')}>Full</th>
                         <th onClick={() => handleSort('halfDays')}>Half</th>
                         <th onClick={() => handleSort('lateMarks')}>Late</th>
                         <th onClick={() => handleSort('absentDays')}>Absent</th>
-                        <th onClick={() => handleSort('totalHours')}>Hours</th>
+                        <th>Conclusion</th>
                         <th>Actions</th>
                       </tr>
                     </thead>
                     <tbody>
-                      {displayed.map((emp, i) => (
+                      {displayed.map((emp, i) => {
+                        const conclusion = getConclusion(emp);
+                        return (
                         <motion.tr 
                           key={i} 
                           className="clickable-row" 
@@ -1127,15 +1203,15 @@ export default function Home() {
                             </div>
                           </td>
                           <td><span className="badge neutral">{emp.memberCode || '-'}</span></td>
-                          <td><span className="badge success">{emp.presentDays}</span></td>
+                          <td><span className="badge info">{emp.presentDays}/{emp.workingDays}</span></td>
                           <td><span className="badge success">{emp.fullDays}</span></td>
-                          <td><span className={`badge ${emp.halfDays > 0 ? 'info' : 'neutral'}`}>{emp.halfDays}</span></td>
+                          <td><span className={`badge ${emp.halfDays > 0 ? 'warning' : 'neutral'}`}>{emp.halfDays}</span></td>
                           <td><span className={`badge ${emp.lateMarks > 3 ? 'danger' : emp.lateMarks > 0 ? 'warning' : 'neutral'}`}>{emp.lateMarks}</span></td>
                           <td><span className={`badge ${emp.absentDays > 3 ? 'danger' : emp.absentDays > 0 ? 'warning' : 'neutral'}`}>{emp.absentDays}</span></td>
-                          <td>{emp.totalFromFile || formatHoursToHM(emp.totalHours)}</td>
+                          <td><span className={`badge ${conclusion.color}`}>{conclusion.icon} {conclusion.text}</span></td>
                           <td><button className="view-btn" onClick={e => { e.stopPropagation(); setSelectedEmployee(emp); }}><Eye size={14} /> View</button></td>
                         </motion.tr>
-                      ))}
+                      );})}
                     </tbody>
                   </table>
                 </div>

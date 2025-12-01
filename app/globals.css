@@ -1434,6 +1434,115 @@ body {
 .modal-stat.warning .modal-stat-value { color: var(--warning); }
 .modal-stat.info .modal-stat-value { color: var(--info); }
 
+/* Conclusion Badge */
+.conclusion-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.conclusion-badge.success { background: var(--success-subtle); color: var(--success); }
+.conclusion-badge.warning { background: var(--warning-subtle); color: var(--warning); }
+.conclusion-badge.danger { background: var(--danger-subtle); color: var(--danger); }
+.conclusion-badge.neutral { background: var(--bg-subtle); color: var(--text-tertiary); }
+
+/* Modal Breakdown */
+.modal-breakdown {
+  background: var(--bg-subtle);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  margin-bottom: 24px;
+  border: 1px solid var(--border-subtle);
+}
+
+.breakdown-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.breakdown-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.breakdown-percent {
+  font-size: 0.9rem;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 20px;
+}
+
+.breakdown-percent.good { background: var(--success-subtle); color: var(--success); }
+.breakdown-percent.avg { background: var(--warning-subtle); color: var(--warning); }
+.breakdown-percent.poor { background: var(--danger-subtle); color: var(--danger); }
+
+.breakdown-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.breakdown-item {
+  background: var(--bg-card);
+  padding: 12px;
+  border-radius: var(--radius-md);
+  text-align: center;
+  border: 1px solid var(--border-subtle);
+}
+
+.breakdown-item.present { border-left: 3px solid var(--success); }
+.breakdown-item.full { border-left: 3px solid var(--success); }
+.breakdown-item.half { border-left: 3px solid var(--warning); }
+.breakdown-item.late { border-left: 3px solid var(--warning); }
+.breakdown-item.absent { border-left: 3px solid var(--danger); }
+
+.breakdown-label {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.breakdown-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.breakdown-formula {
+  background: var(--bg-card);
+  padding: 12px 16px;
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--border-default);
+}
+
+.formula-title {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  display: block;
+  margin-bottom: 6px;
+}
+
+.formula-text {
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+  font-family: monospace;
+  line-height: 1.6;
+}
+
 /* Stat Card Colors */
 .stat-card.success .stat-icon { background: var(--success-subtle); color: var(--success); }
 .stat-card.danger .stat-icon { background: var(--danger-subtle); color: var(--danger); }
