@@ -424,6 +424,7 @@ export default function Home() {
   const [earlyLeaveTime, setEarlyLeaveTime] = useState('19:00');  // Early leave mark if leave before 7:00 PM
   const [minFullDayHours, setMinFullDayHours] = useState('7');    // Half day if worked less than 7 hours
   const [lateMarksPerHalfDay, setLateMarksPerHalfDay] = useState('3'); // 3 late marks = 1 half day deduction
+  const [holidays, setHolidays] = useState<string>('');           // Comma-separated holiday dates (e.g., "Nov 15, Nov 26")
 
   // Theme
   useEffect(() => {
@@ -453,6 +454,14 @@ export default function Home() {
   }, []);
 
   const removeToast = useCallback((id: string) => setToasts(prev => prev.filter(t => t.id !== id)), []);
+
+  // Check if a date is a holiday
+  const isHoliday = useCallback((dateStr: string): boolean => {
+    if (!holidays.trim()) return false;
+    const holidayList = holidays.split(',').map(h => h.trim().toLowerCase());
+    const dateLower = dateStr.toLowerCase();
+    return holidayList.some(h => dateLower.includes(h) || h.includes(dateLower.replace(/\d+\/\d+\/\d+/, '').trim()));
+  }, [holidays]);
 
   // Parse Raw Time Entries
   const parseRawEntries = useCallback((data: Record<string, string>[]) => {
@@ -525,7 +534,8 @@ export default function Home() {
         const date = dayEntry[0];
         const dayData = dayEntry[1];
         const isSunday = dayData.day === 'Sunday';
-        const isRestDay = isSunday;
+        const isHolidayDay = isHoliday(date);
+        const isRestDay = isSunday || isHolidayDay;
         const isPresent = dayData.hours > 0 || dayData.firstIn !== '';
         const isAbsent = !isRestDay && !isPresent;
         
@@ -575,7 +585,7 @@ export default function Home() {
     }
     
     return stats;
-  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay]);
+  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay, isHoliday]);
 
   // Parse Monthly Timesheet
   const parseMonthly = useCallback((rawData: string[][]) => {
@@ -643,7 +653,8 @@ export default function Home() {
           const hStr = row[col.idx]?.toString() || '';
           const day = col.day?.toLowerCase() || '';
           const isSunday = day === 'sun' || day === 'sunday';
-          const isRest = isSunday || hStr === '';
+          const isHolidayDay = isHoliday(col.date);
+          const isRest = isSunday || isHolidayDay || hStr === '';
           const hrs = parseDuration(hStr);
           const isAbsent = !isRest && (hStr === '-' || hrs === 0);
           const isPresent = !isRest && !isAbsent && hrs > 0;
@@ -674,7 +685,7 @@ export default function Home() {
     }
     
     return stats;
-  }, [minFullDayHours, addToast]);
+  }, [minFullDayHours, addToast, isHoliday]);
 
   // Parse Monthly Daily format (Day, Date, Full Name, ... First In, Last Out)
   const parseMonthlyDaily = useCallback((rawData: string[][]) => {
@@ -760,7 +771,8 @@ export default function Home() {
       for (const dayEntry of sortedDays) {
         const dayData = dayEntry[1];
         const isSunday = dayData.day?.toLowerCase() === 'sunday';
-        const isRest: boolean = isSunday;
+        const isHolidayDay = isHoliday(dayData.date);
+        const isRest: boolean = isSunday || isHolidayDay;
         const isAbsent: boolean = !isRest && dayData.hours === 0 && !dayData.firstIn;
         const isPresent: boolean = !isRest && (dayData.hours > 0 || !!dayData.firstIn);
         const isHalfDay: boolean = isPresent && dayData.hours > 0 && dayData.hours < minHours;
@@ -796,7 +808,7 @@ export default function Home() {
     }
     
     return stats;
-  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay, addToast]);
+  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay, addToast, isHoliday]);
 
   // Read file to raw data
   const readFileToData = useCallback(async (file: File): Promise<string[][]> => {
@@ -1129,6 +1141,10 @@ export default function Home() {
           <div className="setting-group">
             <label className="setting-label"><AlertTriangle size={14} /> Grace Days Before Cut</label>
             <input type="number" step="1" min="1" max="10" className="setting-input" value={lateMarksPerHalfDay} onChange={e => setLateMarksPerHalfDay(e.target.value)} onBlur={handleSettings} />
+          </div>
+          <div className="setting-group wide">
+            <label className="setting-label"><Calendar size={14} /> Holidays (Optional)</label>
+            <input type="text" className="setting-input" placeholder="Nov 15, Nov 26, Dec 25" value={holidays} onChange={e => setHolidays(e.target.value)} onBlur={handleSettings} />
           </div>
           <div className="setting-group">
             <Link href="/rules" className="rules-link">

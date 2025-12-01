@@ -504,6 +504,11 @@ body {
   min-width: 200px;
 }
 
+.setting-group.wide {
+  flex: 2;
+  min-width: 300px;
+}
+
 .setting-label {
   display: block;
   font-size: 0.8125rem;
