@@ -287,7 +287,7 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
             <div className="formula-row total-row">
               <span className="formula-label">Final:</span>
               <span className="formula-calc">
-                <strong>{employee.presentDays}/{employee.workingDays}</strong> days ({Math.round((employee.presentDays / Math.max(employee.workingDays, 1)) * 100)}%)
+                <strong>{employee.presentDays}/{employee.dailyRecords.length || 30}</strong> days ({Math.round((employee.presentDays / Math.max(employee.dailyRecords.length, 1)) * 100)}%)
               </span>
             </div>
           </div>
@@ -1201,11 +1201,11 @@ export default function Home() {
                       <tr>
                         <th onClick={() => handleSort('name')}>Employee {sortConfig.key === 'name' && <ChevronDown size={14} className={`sort-icon ${sortConfig.direction}`} />}</th>
                         <th onClick={() => handleSort('memberCode')}>Code</th>
-                        <th onClick={() => handleSort('presentDays')}>Total Days</th>
                         <th onClick={() => handleSort('fullDays')}>Full</th>
                         <th onClick={() => handleSort('halfDays')}>Half</th>
                         <th onClick={() => handleSort('lateMarks')}>Late</th>
                         <th onClick={() => handleSort('absentDays')}>Absent</th>
+                        <th onClick={() => handleSort('presentDays')}>Total</th>
                         <th>Conclusion</th>
                         <th>Actions</th>
                       </tr>
@@ -1213,6 +1213,7 @@ export default function Home() {
                     <tbody>
                       {displayed.map((emp, i) => {
                         const conclusion = getConclusion(emp);
+                        const monthDays = emp.dailyRecords.length || 30;
                         return (
                         <motion.tr 
                           key={i} 
@@ -1229,11 +1230,11 @@ export default function Home() {
                             </div>
                           </td>
                           <td><span className="badge neutral">{emp.memberCode || '-'}</span></td>
-                          <td><span className="badge info">{emp.presentDays}/{emp.workingDays}</span></td>
                           <td><span className="badge success">{emp.fullDays}</span></td>
                           <td><span className={`badge ${emp.halfDays > 0 ? 'warning' : 'neutral'}`}>{emp.halfDays}</span></td>
                           <td><span className={`badge ${emp.lateMarks > 3 ? 'danger' : emp.lateMarks > 0 ? 'warning' : 'neutral'}`}>{emp.lateMarks}</span></td>
                           <td><span className={`badge ${emp.absentDays > 3 ? 'danger' : emp.absentDays > 0 ? 'warning' : 'neutral'}`}>{emp.absentDays}</span></td>
+                          <td><span className="badge info">{emp.presentDays}/{monthDays}</span></td>
                           <td><span className={`badge ${conclusion.color}`}>{conclusion.icon} {conclusion.text}</span></td>
                           <td><button className="view-btn" onClick={e => { e.stopPropagation(); setSelectedEmployee(emp); }}><Eye size={14} /> View</button></td>
                         </motion.tr>
