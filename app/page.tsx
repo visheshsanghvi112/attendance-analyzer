@@ -287,7 +287,7 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
             <div className="formula-row total-row">
               <span className="formula-label">Final:</span>
               <span className="formula-calc">
-                <strong>{employee.presentDays}/{employee.dailyRecords.length || 30}</strong> days ({Math.round((employee.presentDays / Math.max(employee.dailyRecords.length, 1)) * 100)}%)
+                <strong>{employee.presentDays}/30</strong> days ({Math.round((employee.presentDays / 30) * 100)}%)
               </span>
             </div>
           </div>
@@ -1213,7 +1213,26 @@ export default function Home() {
                     <tbody>
                       {displayed.map((emp, i) => {
                         const conclusion = getConclusion(emp);
-                        const monthDays = emp.dailyRecords.length || 30;
+                        // Get actual month days from first record date
+                        const getMonthDays = () => {
+                          if (emp.dailyRecords.length === 0) return 30;
+                          const firstDate = emp.dailyRecords[0]?.date;
+                          if (!firstDate) return 30;
+                          const match = firstDate.match(/(\w+)\s+(\d+)/);
+                          if (match) {
+                            const month = match[1].toLowerCase();
+                            if (['january', 'march', 'may', 'july', 'august', 'october', 'december'].some(m => month.includes(m))) return 31;
+                            if (month.includes('february')) return 28;
+                            return 30;
+                          }
+                          // Try parsing as date
+                          const d = new Date(firstDate);
+                          if (!isNaN(d.getTime())) {
+                            return new Date(d.getFullYear(), d.getMonth() + 1, 0).getDate();
+                          }
+                          return 30;
+                        };
+                        const monthDays = getMonthDays();
                         return (
                         <motion.tr 
                           key={i} 
