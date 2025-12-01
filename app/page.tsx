@@ -1283,6 +1283,7 @@ export default function Home() {
               onChange={e => setCompany(e.target.value)}
             >
               <option value="Ambica Pharma">Ambica Pharma</option>
+              <option value="Baker & Davis Private Limited">Baker & Davis Private Limited</option>
               <option value="Johnlee">Johnlee</option>
               <option value="Yugrow Pharmacy">Yugrow Pharmacy</option>
               <option value="Other / Mixed">Other / Mixed</option>
