@@ -276,8 +276,8 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
           </div>
           <div className="breakdown-formula">
             <div className="formula-row">
-              <span className="formula-label">Total Days:</span>
-              <span className="formula-calc">{employee.fullDays} + ({employee.halfDays} × 0.5) = <strong>{(employee.fullDays + employee.halfDays * 0.5).toFixed(1)} days</strong></span>
+              <span className="formula-label">Total Paid:</span>
+              <span className="formula-calc">{employee.fullDays} + ({employee.halfDays} × 0.5) + {employee.dailyRecords.filter(d => d.isRestDay).length} Sun = <strong>{(employee.fullDays + employee.halfDays * 0.5 + employee.dailyRecords.filter(d => d.isRestDay).length).toFixed(1)} days</strong></span>
             </div>
             {employee.lateMarks > 0 && (
               <div className="formula-row late-row">
@@ -291,7 +291,7 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
             <div className="formula-row total-row">
               <span className="formula-label">Final:</span>
               <span className="formula-calc">
-                <strong>{(employee.fullDays + employee.halfDays * 0.5).toFixed(1)}/30</strong> days ({Math.round(((employee.fullDays + employee.halfDays * 0.5) / 30) * 100)}%)
+                <strong>{(employee.fullDays + employee.halfDays * 0.5 + employee.dailyRecords.filter(d => d.isRestDay).length).toFixed(1)}/30</strong> days ({Math.round(((employee.fullDays + employee.halfDays * 0.5 + employee.dailyRecords.filter(d => d.isRestDay).length) / 30) * 100)}%)
               </span>
             </div>
           </div>
@@ -1255,7 +1255,7 @@ export default function Home() {
                           <td><span className={`badge ${emp.halfDays > 0 ? 'warning' : 'neutral'}`}>{emp.halfDays}</span></td>
                           <td><span className={`badge ${emp.lateMarks > 3 ? 'danger' : emp.lateMarks > 0 ? 'warning' : 'neutral'}`}>{emp.lateMarks}</span></td>
                           <td><span className={`badge ${emp.absentDays > 3 ? 'danger' : emp.absentDays > 0 ? 'warning' : 'neutral'}`}>{emp.absentDays}</span></td>
-                          <td><span className="badge info">{(emp.fullDays + emp.halfDays * 0.5).toFixed(1)}/{monthDays}</span></td>
+                          <td><span className="badge info">{(emp.fullDays + emp.halfDays * 0.5 + emp.dailyRecords.filter(d => d.isRestDay).length).toFixed(1)}/{monthDays}</span></td>
                           <td><button className="view-btn" onClick={e => { e.stopPropagation(); setSelectedEmployee(emp); }}><Eye size={14} /> View</button></td>
                         </motion.tr>
                       );})}
