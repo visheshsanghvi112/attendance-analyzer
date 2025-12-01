@@ -1080,6 +1080,7 @@ body {
   flex-direction: column;
   box-shadow: var(--shadow-xl);
   animation: modalIn 0.3s ease-out;
+  position: relative;
 }
 
 @keyframes modalIn {
@@ -1223,8 +1224,31 @@ body {
 /* Modal Body */
 .modal-body {
   overflow-y: auto;
+  overflow-x: hidden;
   flex: 1;
-  max-height: 60vh;
+  min-height: 0;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar for modal body */
+.modal-body::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-body::-webkit-scrollbar-track {
+  background: var(--bg-subtle);
+  border-radius: var(--radius-md);
+}
+
+.modal-body::-webkit-scrollbar-thumb {
+  background: var(--border-default);
+  border-radius: var(--radius-md);
+  transition: background var(--transition-fast);
+}
+
+.modal-body::-webkit-scrollbar-thumb:hover {
+  background: var(--text-tertiary);
 }
 
 .modal-section {
@@ -1460,8 +1484,9 @@ body {
   background: var(--bg-subtle);
   border-radius: var(--radius-lg);
   padding: 20px;
-  margin-bottom: 24px;
+  margin: 20px 24px;
   border: 1px solid var(--border-subtle);
+  flex-shrink: 0;
 }
 
 .breakdown-header {
@@ -2192,5 +2217,39 @@ button:focus:not(:focus-visible) {
   .table-wrapper {
     margin: 0 -20px -20px;
     padding: 0 20px 20px;
+  }
+  
+  /* Modal improvements for mobile */
+  .modal-overlay {
+    padding: 12px;
+  }
+  
+  .modal-content {
+    max-height: calc(100vh - 24px);
+  }
+  
+  .modal-header {
+    padding: 16px;
+  }
+  
+  .modal-breakdown {
+    margin: 16px;
+    padding: 16px;
+  }
+  
+  .breakdown-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .modal-section {
+    padding: 16px;
+  }
+  
+  .daily-log-header,
+  .daily-log-row {
+    grid-template-columns: 1.2fr 0.6fr 0.9fr 0.7fr 0.9fr;
+    gap: 8px;
+    padding: 10px 12px;
+    font-size: 0.75rem;
   }
 }
