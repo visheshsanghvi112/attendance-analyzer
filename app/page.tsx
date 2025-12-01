@@ -270,14 +270,14 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
               <span className="breakdown-value">{employee.absentDays}</span>
             </div>
             <div className="breakdown-item">
-              <span className="breakdown-label">Rest Days (Sun)</span>
-              <span className="breakdown-value">{employee.dailyRecords.filter(d => d.isRestDay).length}</span>
+              <span className="breakdown-label">Sundays (Paid)</span>
+              <span className="breakdown-value">~4-5</span>
             </div>
           </div>
           <div className="breakdown-formula">
             <div className="formula-row">
               <span className="formula-label">Total Paid:</span>
-              <span className="formula-calc">{employee.fullDays} + ({employee.halfDays} × 0.5) + {employee.dailyRecords.filter(d => d.isRestDay).length} Sun = <strong>{(employee.fullDays + employee.halfDays * 0.5 + employee.dailyRecords.filter(d => d.isRestDay).length).toFixed(1)} days</strong></span>
+              <span className="formula-calc">{employee.fullDays} + ({employee.halfDays} × 0.5) + Sundays + Holidays = <strong>days</strong></span>
             </div>
             {employee.lateMarks > 0 && (
               <div className="formula-row late-row">
@@ -291,7 +291,7 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
             <div className="formula-row total-row">
               <span className="formula-label">Final:</span>
               <span className="formula-calc">
-                <strong>{(employee.fullDays + employee.halfDays * 0.5 + employee.dailyRecords.filter(d => d.isRestDay).length).toFixed(1)}/30</strong> days ({Math.round(((employee.fullDays + employee.halfDays * 0.5 + employee.dailyRecords.filter(d => d.isRestDay).length) / 30) * 100)}%)
+                <strong>See table for total</strong> (includes all Sundays + holidays)
               </span>
             </div>
           </div>
@@ -1288,26 +1288,58 @@ export default function Home() {
                     </thead>
                     <tbody>
                       {displayed.map((emp, i) => {
-                        // Get actual month days from first record date
-                        const getMonthDays = () => {
-                          if (emp.dailyRecords.length === 0) return 30;
+                        // Get month info from first record date
+                        const getMonthInfo = () => {
+                          if (emp.dailyRecords.length === 0) return { days: 30, sundays: 4, year: 2025, month: 10 };
                           const firstDate = emp.dailyRecords[0]?.date;
-                          if (!firstDate) return 30;
+                          if (!firstDate) return { days: 30, sundays: 4, year: 2025, month: 10 };
+                          
+                          let year = new Date().getFullYear();
+                          let month = 10; // November default
+                          
+                          // Parse month period for year
+                          if (monthPeriod) {
+                            const yearMatch = monthPeriod.match(/(\d{4})/);
+                            if (yearMatch) year = parseInt(yearMatch[1]);
+                          }
+                          
+                          // Parse date to get month
+                          const monthNames: Record<string, number> = {
+                            'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2,
+                            'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6,
+                            'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9,
+                            'november': 10, 'nov': 10, 'december': 11, 'dec': 11
+                          };
                           const match = firstDate.match(/(\w+)\s+(\d+)/);
                           if (match) {
-                            const month = match[1].toLowerCase();
-                            if (['january', 'march', 'may', 'july', 'august', 'october', 'december'].some(m => month.includes(m))) return 31;
-                            if (month.includes('february')) return 28;
-                            return 30;
+                            const m = monthNames[match[1].toLowerCase()];
+                            if (m !== undefined) month = m;
                           }
-                          // Try parsing as date
-                          const d = new Date(firstDate);
-                          if (!isNaN(d.getTime())) {
-                            return new Date(d.getFullYear(), d.getMonth() + 1, 0).getDate();
+                          const slashMatch = firstDate.match(/(\d+)\/(\d+)\/(\d+)/);
+                          if (slashMatch) {
+                            month = parseInt(slashMatch[1]) - 1;
+                            year = parseInt(slashMatch[3]);
                           }
-                          return 30;
+                          
+                          // Calculate days in month
+                          const days = new Date(year, month + 1, 0).getDate();
+                          
+                          // Count Sundays in the month
+                          let sundays = 0;
+                          for (let d = 1; d <= days; d++) {
+                            if (new Date(year, month, d).getDay() === 0) sundays++;
+                          }
+                          
+                          return { days, sundays, year, month };
                         };
-                        const monthDays = getMonthDays();
+                        const monthInfo = getMonthInfo();
+                        const monthDays = monthInfo.days;
+                        
+                        // Count holidays
+                        const holidayCount = holidays.split(',').filter(h => h.trim()).length;
+                        
+                        // Total paid days = Full + (Half * 0.5) + Sundays + Holidays
+                        const totalPaid = emp.fullDays + emp.halfDays * 0.5 + monthInfo.sundays + holidayCount;
                         return (
                         <motion.tr 
                           key={i} 
@@ -1328,7 +1360,7 @@ export default function Home() {
                           <td><span className={`badge ${emp.halfDays > 0 ? 'warning' : 'neutral'}`}>{emp.halfDays}</span></td>
                           <td><span className={`badge ${emp.lateMarks > 3 ? 'danger' : emp.lateMarks > 0 ? 'warning' : 'neutral'}`}>{emp.lateMarks}</span></td>
                           <td><span className={`badge ${emp.absentDays > 3 ? 'danger' : emp.absentDays > 0 ? 'warning' : 'neutral'}`}>{emp.absentDays}</span></td>
-                          <td><span className="badge info">{(emp.fullDays + emp.halfDays * 0.5 + emp.dailyRecords.filter(d => d.isRestDay).length).toFixed(1)}/{monthDays}</span></td>
+                          <td><span className="badge info">{totalPaid.toFixed(1)}/{monthDays}</span></td>
                           <td><button className="view-btn" onClick={e => { e.stopPropagation(); setSelectedEmployee(emp); }}><Eye size={14} /> View</button></td>
                         </motion.tr>
                       );})}
