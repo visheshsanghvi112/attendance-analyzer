@@ -168,14 +168,17 @@ function ToastContainer({ toasts, onRemove }: { toasts: Toast[]; onRemove: (id: 
   );
 }
 
-function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, minHours }: { 
+function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, minHours, graceDays }: { 
   employee: EmployeeStats; 
   onClose: () => void;
   onExport: (e: EmployeeStats) => void;
   lateTime: string;
   earlyLeaveTime: string;
   minHours: string;
+  graceDays: number;
 }) {
+  const cycleLength = graceDays + 1;
+  const lateDeductions = Math.floor(employee.lateMarks / cycleLength);
   const lateRecords = employee.dailyRecords.filter(d => d.isLate);
   const earlyLeaveRecords = employee.dailyRecords.filter(d => d.isEarlyLeave && !d.isHalfDay);
   const halfRecords = employee.dailyRecords.filter(d => d.isHalfDay);
@@ -268,10 +271,27 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
             </div>
           </div>
           <div className="breakdown-formula">
-            <span className="formula-title">Calculation:</span>
+            <span className="formula-title">📝 How Total is Calculated:</span>
             <span className="formula-text">
-              Present ({employee.presentDays}) = Full Days ({employee.fullDays}) + Half Days ({employee.halfDays})
-              {employee.lateMarks > 0 && <><br/>Late marks: {employee.lateMarks} → {Math.floor(employee.lateMarks / 4)} half-day deduction(s)</>}
+              <strong>Present Days ({employee.presentDays})</strong> = Full Days + Half Days
+              {employee.lateMarks > 0 && lateDeductions > 0 && (
+                <>
+                  <br/><br/>
+                  <strong>⚠️ Late Penalty Applied:</strong>
+                  <br/>• Late Marks: {employee.lateMarks}
+                  <br/>• Rule: Every {cycleLength}th late = 1 half-day cut
+                  <br/>• Formula: floor({employee.lateMarks} ÷ {cycleLength}) = <strong>{lateDeductions} half-day(s) deducted</strong>
+                  <br/>• Result: {lateDeductions} full day(s) converted to half day(s)
+                </>
+              )}
+              {employee.lateMarks > 0 && lateDeductions === 0 && (
+                <>
+                  <br/><br/>
+                  <strong>ℹ️ Late Status:</strong>
+                  <br/>• Late Marks: {employee.lateMarks} (within grace period of {graceDays})
+                  <br/>• No half-day deduction yet
+                </>
+              )}
             </span>
           </div>
         </div>
@@ -539,6 +559,14 @@ export default function Home() {
         }
       }
       
+      // Apply late penalty: floor(lateMarks / (graceLateDays + 1)) = half days cut
+      // Example: graceLateDays = 3, so 4th late = 1 cut, 8th late = 2 cuts, etc.
+      const graceLateDays = parseInt(lateMarksPerHalfDay) || 3;
+      const cycleLength = graceLateDays + 1;
+      const halfDaysFromLate = Math.floor(emp.lateMarks / cycleLength);
+      emp.halfDays += halfDaysFromLate;
+      emp.fullDays = Math.max(0, emp.fullDays - halfDaysFromLate);
+      
       if (emp.presentDays > 0) emp.avgDailyHours = emp.totalHours / emp.presentDays;
       if (emp.presentDays === 0) emp.status = 'No Attendance';
       emp.totalFromFile = formatHoursToHM(emp.totalHours);
@@ -546,7 +574,7 @@ export default function Home() {
     }
     
     return stats;
-  }, [lateMarkTime, earlyLeaveTime, minFullDayHours]);
+  }, [lateMarkTime, earlyLeaveTime, minFullDayHours, lateMarksPerHalfDay]);
 
   // Parse Monthly Timesheet
   const parseMonthly = useCallback((rawData: string[][]) => {
@@ -997,6 +1025,7 @@ export default function Home() {
             lateTime={lateMarkTime}
             earlyLeaveTime={earlyLeaveDisplay}
             minHours={minFullDayHours}
+            graceDays={parseInt(lateMarksPerHalfDay) || 3}
           />
         )}
       </AnimatePresence>
