@@ -269,6 +269,10 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
               <span className="breakdown-label">Absent Days</span>
               <span className="breakdown-value">{employee.absentDays}</span>
             </div>
+            <div className="breakdown-item">
+              <span className="breakdown-label">Rest Days (Sun)</span>
+              <span className="breakdown-value">{employee.dailyRecords.filter(d => d.isRestDay).length}</span>
+            </div>
           </div>
           <div className="breakdown-formula">
             <div className="formula-row">
