@@ -57,6 +57,18 @@ npm i -g vercel
 vercel
 ```
 
+### ⚠️ Important for Vercel Deployment
+
+**CSV Data Files**: This app includes pre-loaded company data stored in `public/data/`:
+- Ambica Pharma
+- Johnlee  
+- Yugrow Pharmacy
+- Baker & Davis Private Limited
+
+These files are served via the API route `/api/company-data` and work seamlessly on Vercel. The dropdown selector loads these CSVs automatically when you select a company.
+
+**No environment variables needed!** Everything is configured to work out of the box on Vercel.
+
 ## 📋 File Format Requirements
 
 Your timesheet file should have these columns:

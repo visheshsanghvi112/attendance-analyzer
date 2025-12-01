@@ -27,7 +27,8 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: `No static file configured for ${company}` }, { status: 404 });
   }
 
-  const filePath = path.join(process.cwd(), fileName);
+  // CSV files are now in the public/data folder
+  const filePath = path.join(process.cwd(), 'public', 'data', fileName);
 
   try {
     const data = await fs.readFile(filePath);
