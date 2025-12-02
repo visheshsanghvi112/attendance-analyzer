@@ -873,16 +873,31 @@ export default function Home() {
       const date = row[dateIdx]?.toString().trim() || '';
       const day = row[dayIdx]?.toString().trim() || '';
       const workedStr = row[workedIdx]?.toString().trim() || '';
-      const firstIn = row[firstInIdx]?.toString().trim() || '';
-      const lastOut = row[lastOutIdx]?.toString().trim() || '';
+      let firstIn = row[firstInIdx]?.toString().trim() || '';
+      let lastOut = row[lastOutIdx]?.toString().trim() || '';
       
       if (!name || !date) continue;
       
       if (!empMap.has(name)) empMap.set(name, { code, days: new Map() });
       
-      const hours = parseDuration(workedStr);
-      const firstInMins = parseTimeToMinutes(firstIn);
-      const lastOutMins = parseTimeToMinutes(lastOut);
+      let hours = parseDuration(workedStr);
+      let firstInMins = parseTimeToMinutes(firstIn);
+      let lastOutMins = parseTimeToMinutes(lastOut);
+      
+      // Heuristic: treat obviously bogus 24h-style rows as dummy data (no real work)
+      // Example: Yugrow "24h 00m" rows for employees already moved to another company.
+      const looksLikeDummy =
+        hours >= 20 || // 20h+ is unrealistic for a real shift in this context
+        (hours >= 16 && !firstIn && !lastOut); // huge hours but no punches
+      
+      if (looksLikeDummy) {
+        hours = 0;
+        firstIn = '';
+        lastOut = '';
+        firstInMins = 0;
+        lastOutMins = 0;
+      }
+      
       const isLate = firstInMins > 0 && firstInMins > lateMinutes;
       const isEarly = lastOutMins > 0 && lastOutMins < earlyMinutes;
       
