@@ -236,127 +236,128 @@ function EmployeeModal({ employee, onClose, onExport, lateTime, earlyLeaveTime, 
           </div>
         </div>
 
-        {/* Summary Breakdown */}
-        <div className="modal-breakdown">
-          <div className="breakdown-header">
-            <span className="breakdown-title">📊 Attendance Summary</span>
-            <span className={`breakdown-percent ${attendancePercent >= 80 ? 'good' : attendancePercent >= 60 ? 'avg' : 'poor'}`}>
-              {attendancePercent}% Attendance
-            </span>
-          </div>
-          <div className="breakdown-grid">
-            <div className="breakdown-item">
-              <span className="breakdown-label">Working Days</span>
-              <span className="breakdown-value">{employee.workingDays}</span>
-            </div>
-            <div className="breakdown-item present">
-              <span className="breakdown-label">Days Present</span>
-              <span className="breakdown-value">{employee.presentDays}</span>
-            </div>
-            <div className="breakdown-item full">
-              <span className="breakdown-label">Full Days</span>
-              <span className="breakdown-value">{employee.fullDays}</span>
-            </div>
-            <div className="breakdown-item half">
-              <span className="breakdown-label">Half Days</span>
-              <span className="breakdown-value">{employee.halfDays}</span>
-            </div>
-            <div className="breakdown-item late">
-              <span className="breakdown-label">Late Marks</span>
-              <span className="breakdown-value">{employee.lateMarks}</span>
-            </div>
-            <div className="breakdown-item absent">
-              <span className="breakdown-label">Absent Days</span>
-              <span className="breakdown-value">{employee.absentDays}</span>
-            </div>
-            <div className="breakdown-item">
-              <span className="breakdown-label">Sundays (Paid)</span>
-              <span className="breakdown-value">{(() => {
-                // Calculate Sundays from first work day to end of month
-                const workDates = employee.dailyRecords.filter(d => d.isPresent).map(d => {
-                  const match = d.date.match(/(\d+)\/(\d+)\/(\d+)/);
-                  if (match) return new Date(parseInt(match[3]), parseInt(match[1]) - 1, parseInt(match[2]));
-                  const mMatch = d.date.match(/(\w+)\s+(\d+)/);
-                  if (mMatch) {
-                    const months: Record<string, number> = { 'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2, 'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6, 'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9, 'november': 10, 'nov': 10, 'december': 11, 'dec': 11 };
-                    const m = months[mMatch[1].toLowerCase()];
-                    if (m !== undefined) return new Date(2025, m, parseInt(mMatch[2]));
-                  }
-                  return null;
-                }).filter(d => d) as Date[];
-                if (workDates.length === 0) return 0;
-                const first = new Date(Math.min(...workDates.map(d => d.getTime())));
-                const endMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0);
-                let count = 0;
-                const cur = new Date(first);
-                while (cur <= endMonth) { if (cur.getDay() === 0) count++; cur.setDate(cur.getDate() + 1); }
-                return count;
-              })()}</span>
-            </div>
-          </div>
-          <div className="breakdown-formula">
-            <div className="formula-row">
-              <span className="formula-label">Total Paid:</span>
-              <span className="formula-calc">{(() => {
-                const workDates = employee.dailyRecords.filter(d => d.isPresent).map(d => {
-                  const match = d.date.match(/(\d+)\/(\d+)\/(\d+)/);
-                  if (match) return new Date(parseInt(match[3]), parseInt(match[1]) - 1, parseInt(match[2]));
-                  const mMatch = d.date.match(/(\w+)\s+(\d+)/);
-                  if (mMatch) {
-                    const months: Record<string, number> = { 'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2, 'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6, 'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9, 'november': 10, 'nov': 10, 'december': 11, 'dec': 11 };
-                    const m = months[mMatch[1].toLowerCase()];
-                    if (m !== undefined) return new Date(2025, m, parseInt(mMatch[2]));
-                  }
-                  return null;
-                }).filter(d => d) as Date[];
-                if (workDates.length === 0) return `${employee.fullDays} + (${employee.halfDays} × 0.5) = ${(employee.fullDays + employee.halfDays * 0.5).toFixed(1)}`;
-                const first = new Date(Math.min(...workDates.map(d => d.getTime())));
-                const endMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0);
-                let sunCount = 0;
-                const cur = new Date(first);
-                while (cur <= endMonth) { if (cur.getDay() === 0) sunCount++; cur.setDate(cur.getDate() + 1); }
-                const total = employee.fullDays + employee.halfDays * 0.5 + sunCount;
-                return <>{employee.fullDays} + ({employee.halfDays} × 0.5) + {sunCount} Sun = <strong>{total.toFixed(1)} days</strong></>;
-              })()}</span>
-            </div>
-            {employee.lateMarks > 0 && (
-              <div className="formula-row late-row">
-                <span className="formula-label">Late Penalty:</span>
-                <span className="formula-calc">
-                  {employee.lateMarks} late ÷ {cycleLength} = <strong>{lateDeductions} cut{lateDeductions !== 1 ? 's' : ''}</strong>
-                  {lateDeductions === 0 && <span className="grace-note">(grace period)</span>}
+        <div className="modal-body">
+          {/* Summary Breakdown */}
+          <div className="modal-section modal-section-summary">
+            <div className="modal-breakdown">
+              <div className="breakdown-header">
+                <span className="breakdown-title">📊 Attendance Summary</span>
+                <span className={`breakdown-percent ${attendancePercent >= 80 ? 'good' : attendancePercent >= 60 ? 'avg' : 'poor'}`}>
+                  {attendancePercent}% Attendance
                 </span>
               </div>
-            )}
-            <div className="formula-row total-row">
-              <span className="formula-label">Final:</span>
-              <span className="formula-calc">{(() => {
-                const workDates = employee.dailyRecords.filter(d => d.isPresent).map(d => {
-                  const match = d.date.match(/(\d+)\/(\d+)\/(\d+)/);
-                  if (match) return new Date(parseInt(match[3]), parseInt(match[1]) - 1, parseInt(match[2]));
-                  const mMatch = d.date.match(/(\w+)\s+(\d+)/);
-                  if (mMatch) {
-                    const months: Record<string, number> = { 'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2, 'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6, 'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9, 'november': 10, 'nov': 10, 'december': 11, 'dec': 11 };
-                    const m = months[mMatch[1].toLowerCase()];
-                    if (m !== undefined) return new Date(2025, m, parseInt(mMatch[2]));
-                  }
-                  return null;
-                }).filter(d => d) as Date[];
-                if (workDates.length === 0) return <><strong>{(employee.fullDays + employee.halfDays * 0.5).toFixed(1)}/30</strong></>;
-                const first = new Date(Math.min(...workDates.map(d => d.getTime())));
-                const endMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0);
-                let sunCount = 0;
-                const cur = new Date(first);
-                while (cur <= endMonth) { if (cur.getDay() === 0) sunCount++; cur.setDate(cur.getDate() + 1); }
-                const total = employee.fullDays + employee.halfDays * 0.5 + sunCount;
-                const monthDays = endMonth.getDate();
-                return <><strong>{total.toFixed(1)}/{monthDays}</strong> ({Math.round((total / monthDays) * 100)}%)</>;
-              })()}</span>
+              <div className="breakdown-grid">
+                <div className="breakdown-item">
+                  <span className="breakdown-label">Working Days</span>
+                  <span className="breakdown-value">{employee.workingDays}</span>
+                </div>
+                <div className="breakdown-item present">
+                  <span className="breakdown-label">Days Present</span>
+                  <span className="breakdown-value">{employee.presentDays}</span>
+                </div>
+                <div className="breakdown-item full">
+                  <span className="breakdown-label">Full Days</span>
+                  <span className="breakdown-value">{employee.fullDays}</span>
+                </div>
+                <div className="breakdown-item half">
+                  <span className="breakdown-label">Half Days</span>
+                  <span className="breakdown-value">{employee.halfDays}</span>
+                </div>
+                <div className="breakdown-item late">
+                  <span className="breakdown-label">Late Marks</span>
+                  <span className="breakdown-value">{employee.lateMarks}</span>
+                </div>
+                <div className="breakdown-item absent">
+                  <span className="breakdown-label">Absent Days</span>
+                  <span className="breakdown-value">{employee.absentDays}</span>
+                </div>
+                <div className="breakdown-item">
+                  <span className="breakdown-label">Sundays (Paid)</span>
+                  <span className="breakdown-value">{(() => {
+                    // Calculate Sundays from first work day to end of month
+                    const workDates = employee.dailyRecords.filter(d => d.isPresent).map(d => {
+                      const match = d.date.match(/(\d+)\/(\d+)\/(\d+)/);
+                      if (match) return new Date(parseInt(match[3]), parseInt(match[1]) - 1, parseInt(match[2]));
+                      const mMatch = d.date.match(/(\w+)\s+(\d+)/);
+                      if (mMatch) {
+                        const months: Record<string, number> = { 'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2, 'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6, 'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9, 'november': 10, 'nov': 10, 'december': 11, 'dec': 11 };
+                        const m = months[mMatch[1].toLowerCase()];
+                        if (m !== undefined) return new Date(2025, m, parseInt(mMatch[2]));
+                      }
+                      return null;
+                    }).filter(d => d) as Date[];
+                    if (workDates.length === 0) return 0;
+                    const first = new Date(Math.min(...workDates.map(d => d.getTime())));
+                    const endMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0);
+                    let count = 0;
+                    const cur = new Date(first);
+                    while (cur <= endMonth) { if (cur.getDay() === 0) count++; cur.setDate(cur.getDate() + 1); }
+                    return count;
+                  })()}</span>
+                </div>
+              </div>
+              <div className="breakdown-formula">
+                <div className="formula-row">
+                  <span className="formula-label">Total Paid:</span>
+                  <span className="formula-calc">{(() => {
+                    const workDates = employee.dailyRecords.filter(d => d.isPresent).map(d => {
+                      const match = d.date.match(/(\d+)\/(\d+)\/(\d+)/);
+                      if (match) return new Date(parseInt(match[3]), parseInt(match[1]) - 1, parseInt(match[2]));
+                      const mMatch = d.date.match(/(\w+)\s+(\d+)/);
+                      if (mMatch) {
+                        const months: Record<string, number> = { 'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2, 'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6, 'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9, 'november': 10, 'nov': 10, 'december': 11, 'dec': 11 };
+                        const m = months[mMatch[1].toLowerCase()];
+                        if (m !== undefined) return new Date(2025, m, parseInt(mMatch[2]));
+                      }
+                      return null;
+                    }).filter(d => d) as Date[];
+                    if (workDates.length === 0) return `${employee.fullDays} + (${employee.halfDays} × 0.5) = ${(employee.fullDays + employee.halfDays * 0.5).toFixed(1)}`;
+                    const first = new Date(Math.min(...workDates.map(d => d.getTime())));
+                    const endMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0);
+                    let sunCount = 0;
+                    const cur = new Date(first);
+                    while (cur <= endMonth) { if (cur.getDay() === 0) sunCount++; cur.setDate(cur.getDate() + 1); }
+                    const total = employee.fullDays + employee.halfDays * 0.5 + sunCount;
+                    return <>{employee.fullDays} + ({employee.halfDays} × 0.5) + {sunCount} Sun = <strong>{total.toFixed(1)} days</strong></>;
+                  })()}</span>
+                </div>
+                {employee.lateMarks > 0 && (
+                  <div className="formula-row late-row">
+                    <span className="formula-label">Late Penalty:</span>
+                    <span className="formula-calc">
+                      {employee.lateMarks} late ÷ {cycleLength} = <strong>{lateDeductions} cut{lateDeductions !== 1 ? 's' : ''}</strong>
+                      {lateDeductions === 0 && <span className="grace-note">(grace period)</span>}
+                    </span>
+                  </div>
+                )}
+                <div className="formula-row total-row">
+                  <span className="formula-label">Final:</span>
+                  <span className="formula-calc">{(() => {
+                    const workDates = employee.dailyRecords.filter(d => d.isPresent).map(d => {
+                      const match = d.date.match(/(\d+)\/(\d+)\/(\d+)/);
+                      if (match) return new Date(parseInt(match[3]), parseInt(match[1]) - 1, parseInt(match[2]));
+                      const mMatch = d.date.match(/(\w+)\s+(\d+)/);
+                      if (mMatch) {
+                        const months: Record<string, number> = { 'january': 0, 'jan': 0, 'february': 1, 'feb': 1, 'march': 2, 'mar': 2, 'april': 3, 'apr': 3, 'may': 4, 'june': 5, 'jun': 5, 'july': 6, 'jul': 6, 'august': 7, 'aug': 7, 'september': 8, 'sep': 8, 'october': 9, 'oct': 9, 'november': 10, 'nov': 10, 'december': 11, 'dec': 11 };
+                        const m = months[mMatch[1].toLowerCase()];
+                        if (m !== undefined) return new Date(2025, m, parseInt(mMatch[2]));
+                      }
+                      return null;
+                    }).filter(d => d) as Date[];
+                    if (workDates.length === 0) return <><strong>{(employee.fullDays + employee.halfDays * 0.5).toFixed(1)}/30</strong></>;
+                    const first = new Date(Math.min(...workDates.map(d => d.getTime())));
+                    const endMonth = new Date(first.getFullYear(), first.getMonth() + 1, 0);
+                    let sunCount = 0;
+                    const cur = new Date(first);
+                    while (cur <= endMonth) { if (cur.getDay() === 0) sunCount++; cur.setDate(cur.getDate() + 1); }
+                    const total = employee.fullDays + employee.halfDays * 0.5 + sunCount;
+                    const monthDays = endMonth.getDate();
+                    return <><strong>{total.toFixed(1)}/{monthDays}</strong> ({Math.round((total / monthDays) * 100)}%)</>;
+                  })()}</span>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-
-        <div className="modal-body">
           {/* Detailed Daily Log */}
           <div className="modal-section">
             <h3 className="modal-section-title"><Calendar size={16} /> Daily Attendance Log</h3>
